@@ -1,0 +1,378 @@
+HB9TYH-1	APLRG1	TCPIP*,qAC,T2GREECE	position lat=47.47917 lon=7.45832 amb=0 sym=L& crs=- spd=- alt=- msg=1 comment=LoRa APRS
+F5ZEE	APDW19	qAR,DL2WB-10	object name=430.3625 live=1 lat=48.47867 lon=7.48050 amb=0 sym=/r crs=- spd=- alt=- msg=0 time=dayHourMinute(day: 1, hour: 0, minute: 0, isUTC: true) comment=430.362MHz +940 R40k F1ZVF-B DStar JN38RL
+HB9HNJ-N	APDG03	TCPIP*,qAC,HB9HNJ-NS	position lat=47.18600 lon=8.52000 amb=0 sym=D& crs=- spd=- alt=0 msg=0 comment=70cm MMDVM Voice (C4FM) 433.55000MHz +0.0000MHz, HB9HNJ_Pi-Star_ND
+HB9GFX-Y	APCHP0	TCPIP*,qAC,HB9GFX-YS	position lat=47.56667 lon=8.25633 amb=0 sym=Wi crs=- spd=- alt=0 msg=0 comment=70cm MMDVM Voice (C4FM) 430.17500MHz +0.0000MHz, APRS for YSFGateway
+HB9GFX-Y	APCHP0	qAS,HB9GFX	status time=- text=Powered by WPSD (https://wpsd.radio)
+DG3GAI-10	APX204	TCPIP*,qAC,T2NUERNBG	position lat=48.06710 lon=8.34068 amb=0 sym=/& crs=- spd=- alt=- msg=1 rng=8.6 comment=IGate Unterkirnach DOK A14, 73 de Klaus
+DB0RAB-6	APEP01	WIDE1-1,qAO,DG2SAX-10	position lat=48.30533 lon=8.99333 amb=0 sym=/_ crs=- spd=- alt=- msg=0 wx=dir:-,spd:-,gust:-,t:45,r:-,p:-,P:-,h:65,b:10206,L:-,snow:- comment= 
+DO2MIB-10	APWW11	TCPIP*,qAC,T2PANAMA	status time=- text=JN37tr/Z QRV 439.175
+HB9GL-10	AP4R10	TCPIP*,qAC,T2TEXAS	position lat=47.03600 lon=9.08433 amb=0 sym=W# crs=- spd=- alt=- msg=0 phg=4/320/3/360 comment= APRS4R IGATE
+DE1HMS-7	APLRT1	WIDE1-1,qAO,DA0Y-10	position lat=48.11821 lon=9.17164 amb=0 sym=/> crs=- spd=- alt=2446 msg=1 comment=Hamid unterwegs
+HB9GNW-20	APRSMC	WIDE1-1,qAR,HB9CQZ-10	position lat=47.16480 lon=8.30220 amb=0 sym=\L crs=- spd=- alt=- msg=0 comment=
+F8KOX-4	APFD90	FC1-1,qAR,HB9ZG-2	position lat=47.81283 lon=6.84250 amb=0 sym=V# crs=- spd=- alt=- msg=0 phg=9/40/0/- comment= Digi Ballon d'Alsace 1132mASL REF90 JN37KT
+HB9AK-7	APMI06	qAR,HB9BB	position lat=47.01250 lon=9.58833 amb=0 sym=/7 crs=- spd=- alt=- msg=1 time=dayHourMinute(day: 21, hour: 11, minute: 36, isUTC: true) phg=4/5120/3/- comment= WX3in1 Malanser Aelpli GR
+DL1TOB-9	APLT00	WIDE1-1,qAO,DB0KLI-11	position lat=48.10583 lon=8.75533 amb=0 sym=/> crs=315 spd=20.0 alt=3167 msg=0 comment= !wS%!
+DA0Y-10	APLRG1	TCPIP*,qAC,T2LAUSITZ	position lat=48.05332 lon=9.03192 amb=0 sym=La crs=- spd=- alt=- msg=0 comment=QTH Bäumlehof 850 ma.s.l.
+HB9NF-10	APMI06	HB9FM-4*,WIDE2,qAR,HB9EAS-10	position lat=47.38517 lon=8.91550 amb=0 sym=\c crs=- spd=- alt=- msg=1 time=dayHourMinute(day: 21, hour: 11, minute: 35, isUTC: true) comment= Notfunk Zuerich - HB9NF U=12.3V
+DL2GPS-10	APLHI0	TCPIP*,qAC,T2CSNGRAD	status time=- text=Last DX: DL1TOB-9 SNR=-16.75dB RSSI=-139.75dBm - 43Km @ 12:36
+DL1HQD-10	APDW18	TCPIP*,qAC,T2SWEDEN	position lat=47.71967 lon=9.38633 amb=0 sym=R& crs=- spd=- alt=- msg=0 comment=RTL-SDR Direwolf IGate
+HB9IQR	APOSW	TCPIP*,qAC,T2POLC	position lat=47.03750 lon=9.06150 amb=0 sym=\& crs=- spd=- alt=0 msg=1 time=dayHourMinute(day: 21, hour: 11, minute: 36, isUTC: true) comment=SharkRF openSPOT2
+DG8GAA-10	APLRG1	WIDE1-1,qAO,DA0Y-10	position lat=47.89240 lon=9.31000 amb=0 sym=La crs=- spd=- alt=- msg=0 comment=LoRa APRS
+F1ZSG-S	APD5T1	TCPIP*,qAC,F1ZSG-GS	object name=F1ZSG  B live=1 lat=48.03217 lon=7.00117 amb=0 sym=Da crs=- spd=- alt=39 msg=0 time=dayHourMinute(day: 21, hour: 11, minute: 36, isUTC: true) rng=12.0 comment= 440 Voice 439.97500MHz -9.4000MHz
+DF1GU-14	APBM1D	TCPIP*,qAR,DL3OCK-12	position lat=47.63133 lon=9.65850 amb=0 sym=/u crs=55 spd=19.0 alt=1672 msg=1 comment=Test with PoC
+DD8TF-11	APRS	qAO,DD8TF-10	position lat=47.97950 lon=8.81517 amb=0 sym=/_ crs=- spd=- alt=- msg=0 wx=dir:-,spd:-,gust:-,t:52,r:-,p:-,P:-,h:62,b:-,L:-,snow:- comment=
+F1ZSG-B	APD5T2	TCPIP*,qAC,F1ZSG-BS	position lat=48.03217 lon=7.00117 amb=0 sym=D& crs=- spd=- alt=39 msg=0 rng=12.0 comment= 440 Voice 439.97500MHz -9.4000MHz
+HB9BB	APMI06	TCPIP*,qAS,HB0TR	telemetry seq=232 analog=180.00,82.00,58.00,70.00,0.00 digital=00000000 comment=
+HB3YPI-10	TW1XSL	qAO,HB9ZZ-1	position lat=47.30583 lon=8.75417 amb=1 sym=/- crs=86 spd=0.0 alt=1532 msg=0 mice=standard(1) comment=`HB3YPI-HOME-QRV-439.225-FM-RPT.GOSSAU-ZH_)
+HB9ZRH-10	APOTW1	TCPIP*,qAC,T2ROMANIA	position lat=47.34967 lon=8.49100 amb=0 sym=/_ crs=- spd=- alt=- msg=1 time=dayHourMinute(day: 21, hour: 11, minute: 36, isUTC: true) wx=dir:-,spd:-,gust:-,t:40,r:-,p:-,P:-,h:83,b:10189,L:-,snow:- comment=BME280
+HB9ZRH-10	APOTW1	TCPIP*,qAC,T2ROMANIA	telemetry seq=250 analog=89.00,168.00,166.00,0.00,0.00 digital=00000000 comment=
+DF1GU-5	APLRT1	WIDE1-1,qAO,DF1GU-10	position lat=47.63148 lon=9.65867 amb=0 sym=/u crs=- spd=- alt=1508 msg=1 comment= Bat=4.14V (100%)
+HB3YNL-7	T6QSY8	WIDE1-1,WIDE2-1,qAO,IZ1HKE-1	position lat=46.23300 lon=8.93817 amb=0 sym=/[ crs=283 spd=0.0 alt=7808 msg=0 mice=standard(2) comment=`OM Davide portable. QRV in FM/C4FM_0
+DG1GJH-10	APLG01	TCPIP*,qAC,T2SWEDEN	position lat=48.16317 lon=8.61133 amb=0 sym=L& crs=- spd=- alt=- msg=1 comment=LoRa iGATE
+HB3YDM-9	TW2VW5	HB3YGT-10,HB3YDM-10,WIDE1-1,WIDE2-1,qAR,HB9TG-10	position lat=47.44583 lon=9.05367 amb=0 sym=/> crs=249 spd=0.0 alt=1795 msg=0 mice=standard(1) comment=`_%
+DB0BIN	APGE01	TCPIP*,qAC,T2BIO	status time=dayHourMinute(day: 21, hour: 11, minute: 36, isUTC: true) text=at Home
+HB9PVI-11	APFII0	TCPIP*,qAC,APRSFI	position lat=47.07050 lon=7.53967 amb=0 sym=/> crs=135 spd=1.0 alt=1671 msg=1 time=hourMinuteSecond(hour: 11, minute: 36, second: 56) comment=iPhone!w/0!
+DB0BIN	APGE01	TCPIP*,qAC,T2BIO	position lat=48.30450 lon=8.76150 amb=0 sym=/_ crs=- spd=- alt=- msg=0 wx=dir:180,spd:0,gust:-,t:43,r:-,p:0,P:-,h:-,b:10169,L:-,snow:- comment=
+DL1TOB-9	APLT00	WIDE1-1,qAO,DB0KLI-11	position lat=48.10683 lon=8.75517 amb=0 sym=/> crs=9 spd=21.0 alt=3172 msg=0 comment= !w0$!
+DE1HMS-7	APLRT1	WIDE1-1,qAO,DA0Y-10	position lat=48.11986 lon=9.16669 amb=0 sym=/> crs=- spd=- alt=2490 msg=1 comment=
+DO2JM-10	APMI04	TCPIP*,qAS,DO2JM	message to=DO2JM-10 kind=text id=- reply=- text=PARM.Vin,Rx10m,Rx1h,Eff1h,Eft,O1,O2,O3,O4,I1,I2,I3,I4
+DO2JM-10	APMI04	TCPIP*,qAS,DO2JM	message to=DO2JM-10 kind=text id=- reply=- text=UNIT.Volt,Pkt,Pkt,Pkt,Pkt,On,On,On,On,Hi,Hi,Hi,Hi
+DO2JM-10	APMI04	TCPIP*,qAS,DO2JM	message to=DO2JM-10 kind=text id=- reply=- text=EQNS.0,0.079,0,0,10,0,0,10,0,0,10,0,0,10,0
+DO2JM-10	APMI04	TCPIP*,qAS,DO2JM	message to=DO2JM-10 kind=text id=- reply=- text=BITS.11111111,Telemetry test
+DB0SAC-B	APRS	TCPIP*,qAC,DB0SAC-BS	position lat=47.58250 lon=7.96033 amb=0 sym=Da crs=- spd=- alt=- msg=0 rng=18.0 comment= DVRPTR 438.450MHz -7.6MHz Bad Saeckingen-Egg
+DL4GAJ-7	APLT00	WIDE1-1,qAO,DA6HS-10	position lat=48.09300 lon=9.21617 amb=0 sym=/[ crs=125 spd=0.0 alt=1998 msg=0 comment=LoRa Tracker -  _Bat.: 4.16V - Cur.:  0mA !wSr!
+DL2GPS-10	APLHI0	TCPIP*,qAC,T2CSNGRAD	position lat=48.13700 lon=8.17700 amb=0 sym=L& crs=- spd=- alt=- msg=0 comment=LoRa-iGate(LoRa32), Vertical X50
+IW2EJH-5	APLRT1	WIDE1-1,qAO,HB9LU-13	position lat=47.16814 lon=8.14163 amb=0 sym=/[ crs=- spd=- alt=1849 msg=1 comment=
+OE9MNR-8	APBM1D	TCPIP*,qAR,BM2322-10	position lat=47.47333 lon=9.74517 amb=0 sym=/8 crs=360 spd=0.0 alt=1471 msg=1 comment=Michi @ P50
+F4JSG-10	APLRG1	WIDE1-1,qAO,DB0DB-10	position lat=48.01326 lon=7.31349 amb=0 sym=L_ crs=- spd=- alt=- msg=1 wx=dir:-,spd:-,gust:-,t:54,r:-,p:-,P:-,h:100,b:9944,L:-,snow:- comment=LoRa APRS
+HB9NBG-12	TW2RX1	HB9CR-4*,WIDE1,WIDE2-1,qAR,HB9FM-10	position lat=47.38017 lon=7.50583 amb=0 sym=/[ crs=164 spd=0.0 alt=1886 msg=0 mice=standard(1) comment=`OM Ren_0
+DB0FRB	APRX29	TCPIP*,qAC,T2CZECH	object name=DB0FIS live=1 lat=48.04183 lon=8.16950 amb=0 sym=/r crs=- spd=- alt=- msg=0 time=dayHourMinute(day: 11, hour: 11, minute: 11, isUTC: true) comment=C4FM-Relais 438.7375MHz -7.6; WIRES-X Raum DL-Suedwest
+DB2SH-10	APLRG1	TCPIP*,qAC,T2KOBLENZ	position lat=48.42334 lon=9.43929 amb=0 sym=L& crs=- spd=- alt=- msg=0 comment=LoRa APRS iGate Muensingen-Dottingen
+DB0LHR-6	APGE01	qAS,DB0LHR-10	position lat=48.34883 lon=7.86350 amb=0 sym=/_ crs=- spd=- alt=- msg=0 wx=dir:135,spd:0,gust:-,t:48,r:-,p:0,P:-,h:83,b:10200,L:-,snow:- comment=
+DL1TOB-9	APLT00	WIDE1-1,qAS,DH0GME-10	position lat=48.10767 lon=8.75583 amb=0 sym=/> crs=46 spd=30.0 alt=3161 msg=0 comment= !wPG!
+DB0LHR-10	APGE01	TCPIP*,qAC,T2FINLAND	position lat=48.34833 lon=7.86467 amb=0 sym=/& crs=- spd=- alt=- msg=1 comment=APRS/LoRa-IGate Lahr/Schwarzwald 
+DB0LHR-10	APGE01	TCPIP*,qAC,T2FINLAND	status time=dayHourMinute(day: 21, hour: 11, minute: 37, isUTC: true) text=2m-APRS and LoRa: RX only
+DF1GU-5	APLRT1	WIDE1-1,qAO,DF1GU-10	position lat=47.63209 lon=9.66041 amb=0 sym=/u crs=- spd=- alt=1487 msg=1 comment=
+DO2JM-10	APMI04	TCPIP*,qAS,DO2JM	telemetry seq=089 analog=179.00,43.00,31.00,70.00,80.00 digital=00000000 comment=
+F4DHG	TW4QR2	F8KOX-4*,WIDE2-1,qAR,HB9ZG-2	position lat=47.68700 lon=7.16550 amb=0 sym=/- crs=- spd=0.0 alt=- msg=0 mice=standard(1) comment=]=
+DO2JM-10	APMI04	WIDE2-2,qAO,HB9SH-10	telemetry seq=088 analog=179.00,43.00,31.00,70.00,80.00 digital=00000000 comment=
+OE9XPT-6	APMI06	TCPIP*,qAC,T2AUSTRIA	telemetry seq=041 analog=187.00,0.00,0.00,0.00,142.00 digital=00000000 comment=
+HB9ONO-2	APNL51	TCPIP*,qAI,HB9ONO-2,T2CZECH,T2HUB2,T2HUB1,T2NUERNBG	position lat=47.11217 lon=7.25033 amb=0 sym=/` crs=- spd=- alt=- msg=0 comment=iGate HB9ONO Radiosonde-RX@Raspi3
+DH1GAP-13	APGE01	qAS,DH1GAP-10	position lat=47.83783 lon=8.92600 amb=0 sym=/_ crs=- spd=- alt=- msg=0 wx=dir:0,spd:9,gust:-,t:49,r:0,p:6,P:-,h:83,b:10280,L:-,snow:- comment=
+HB9RP-10	APGW1K	TCPIP*,qAC,T2FINLAND	position lat=47.21067 lon=8.19567 amb=0 sym=/0 crs=- spd=- alt=- msg=0 comment=APRS i-Gate, TX 5W  Beromuenster 13.8V
+HB9RP-10	APGW1K	WIDE1-1,WIDE1-1,qAR,HB9LU-12	position lat=47.21067 lon=8.19567 amb=0 sym=/0 crs=- spd=- alt=- msg=0 comment=APRS i-Gate, TX 5W  Beromuenster 13.9V
+IW2CYE-3	APLRG1	WIDE1-1,qAO,IW2CYE-10	position lat=46.41985 lon=9.35481 amb=0 sym=L# crs=- spd=- alt=- msg=0 comment=LoRa APRS IW2CYE - Campodolcino - Fraz. Motta (SO)
+DE1HMS-7	APLRT1	WIDE1-1,qAO,DB0WV-11	position lat=48.12328 lon=9.16453 amb=0 sym=/> crs=- spd=- alt=2530 msg=1 comment=
+DL1TOB-9	APLT00	WIDE1-1,qAS,DH0GME-10	position lat=48.10883 lon=8.75733 amb=0 sym=/> crs=24 spd=33.0 alt=3144 msg=0 comment= !wF;!
+HB9FS	APNU19	WIDE1-1,WIDE3-3,qAR,HB9BSL-11	position lat=47.48083 lon=7.81733 amb=0 sym=/# crs=- spd=- alt=- msg=0 comment= (APRS DIGI SISSACHERFLUH) 141I 
+DL9GJ-6	APU25N	TCPIP*,qAC,T2LAUSITZ	position lat=48.24050 lon=9.93567 amb=0 sym=/_ crs=- spd=- alt=- msg=1 time=dayHourMinute(day: 21, hour: 11, minute: 37, isUTC: true) wx=dir:275,spd:4,gust:8,t:45,r:0,p:3,P:2,h:84,b:10191,L:196,snow:- comment=/**WX Station nr.Ulm Vatage Pro2 {UIV32N}
+F4FEB-13	APMI06	TCPIP*,qAS,F4FEB	position lat=47.38783 lon=6.56000 amb=0 sym=/_ crs=- spd=- alt=- msg=1 time=dayHourMinute(day: 21, hour: 11, minute: 37, isUTC: true) wx=dir:209,spd:1,gust:4,t:47,r:6,p:72,P:26,h:100,b:10205,L:-,snow:- comment=WX3in1/Peet Bros 2100/JN37GJ
+HB9GFF-10	APRS	qAR,HB9GFF-12	position lat=47.43700 lon=8.84150 amb=0 sym=/_ crs=- spd=- alt=- msg=0 wx=dir:0,spd:0,gust:-,t:48,r:-,p:-,P:-,h:10,b:-,L:-,snow:- comment=0b09560 WX-Turbenthal
+DB2GM-12	APLRG1	TCPIP*,qAC,T2HUN	position lat=47.65900 lon=8.91683 amb=0 sym=La crs=- spd=- alt=- msg=1 comment=LoRa_APRS_iGate (Batt=4.27V)
+HB9PC	APDW15	WIDE1-1,WIDE2-1,qAR,HB9PS	position lat=46.33583 lon=7.47783 amb=0 sym=S# crs=- spd=- alt=- msg=0 phg=4/10/4/- comment=Cry d'Er 2'270m 4W
+HB9UCQ-S	APDG01	TCPIP*,qAC,HB9UCQ-GS	object name=HB9UCQ B live=1 lat=46.91683 lon=7.11200 amb=0 sym=Da crs=- spd=- alt=10 msg=0 time=dayHourMinute(day: 21, hour: 11, minute: 37, isUTC: true) rng=1.0 comment= 70cm Voice (D-Star) 438.37500MHz -7.6000MHz
+HB3XZD-1	APBM1D	TCPIP*,qAR,HB9BO-10	position lat=46.92667 lon=7.11500 amb=0 sym=\! crs=360 spd=0.0 alt=1646 msg=1 comment=Joel RoIP
+DB0MOE-6	APU25N	TCPIP*,qAS,DB0MOE	position lat=48.59683 lon=8.07383 amb=0 sym=/_ crs=- spd=- alt=- msg=1 time=dayHourMinute(day: 21, hour: 11, minute: 37, isUTC: true) wx=dir:280,spd:1,gust:2,t:47,r:0,p:44,P:30,h:82,b:10004,L:-,snow:- comment=WX Msbach
+IW2EJH-5	APLRT1	WIDE1-1,qAR,HB9WDF-15	position lat=47.17176 lon=8.13452 amb=0 sym=/[ crs=- spd=- alt=1834 msg=1 comment=
+HB9HFN-10	APLRG1	TCPIP*,qAC,T2MEXICO	position lat=46.91628 lon=7.02493 amb=0 sym=L& crs=- spd=- alt=- msg=1 comment=LoRa APRS iGate 433MHz Batt=4.30V
+HB3YGT-10	AP4R10	TCPIP*,qAC,T2SWISS1	status time=- text=AV:1.0.4 AU:03m08d RES:1 OU:01y06m OM:9.50/29.05MB OD:0.35/6.81MB HF:870191/42918 I-Net:8957774/777619
+OE9AFV-3	APRS	qAR,OE9XFV-10	position lat=47.48017 lon=9.71983 amb=0 sym=/3 crs=- spd=- alt=- msg=0 comment=Alex, Tetra MTM5400
+DO2GR-10	APRX28	TCPIP*,qAC,T2KA	message to=DO2GR-10 kind=text id=- reply=- text=PARM.Avg 10m,Avg 10m,RxPkts,IGateDropRx,TxPkts
+HB9CRE-10	APLRG1	WIDE1-1,qAR,HB9CRE-11	position lat=46.95533 lon=7.54983 amb=0 sym=L# crs=- spd=- alt=- msg=1 comment=LoRa_APRS_Digirepeater
+DE1HMS-7	APLRT1	WIDE1-1,qAO,DA0Y-10	position lat=48.12695 lon=9.16590 amb=0 sym=/> crs=- spd=- alt=2541 msg=1 comment=
+HB9INU-10	APLRG1	TCPIP*,qAC,T2CSNGRAD	position lat=47.55117 lon=7.54667 amb=0 sym=L& crs=- spd=- alt=- msg=1 comment=LoRa_APRS_iGate_Allschwil_Switzerland
+HB9AK-7	APMI06	qAR,HB9AK-5	position lat=47.01250 lon=9.58833 amb=0 sym=/7 crs=- spd=- alt=- msg=1 time=dayHourMinute(day: 21, hour: 11, minute: 36, isUTC: true) phg=4/5120/3/- comment= WX3in1 Malanser Aelpli GR
+HB3YNL-7	T6QSY8	WIDE1-1,WIDE2-1,qAR,IR2UFW	position lat=46.23300 lon=8.93817 amb=0 sym=/[ crs=283 spd=0.0 alt=7808 msg=0 mice=standard(2) comment=`OM Davide portable. QRV in FM/C4FM_0
+HB9KBJ-8	APRS	TCPIP*,qAC,THIRD	position lat=47.30533 lon=7.94550 amb=0 sym=/_ crs=- spd=- alt=- msg=1 time=dayHourMinute(day: 21, hour: 11, minute: 37, isUTC: true) wx=dir:148,spd:0,gust:0,t:47,r:0,p:22,P:1,h:88,b:10204,L:120,snow:- comment=.DsVP
+DO1SMK-10	APOSB	TCPIP*,qAS,DO1SMK	position lat=48.59017 lon=9.24267 amb=0 sym=/- crs=- spd=- alt=1062 msg=1 time=dayHourMinute(day: 21, hour: 11, minute: 37, isUTC: true) comment=openSPOT3 Gateway
+HB9UCQ-B	APDG02	TCPIP*,qAC,HB9UCQ-BS	position lat=46.91683 lon=7.11200 amb=0 sym=D& crs=- spd=- alt=10 msg=0 rng=1.0 comment= 70cm Voice (D-Star) 438.37500MHz -7.6000MHz
+HB9IJS-9	APLRT1	WIDE1-1,qAO,HB9UW-11	position lat=46.94985 lon=8.27715 amb=0 sym=/> crs=- spd=- alt=1461 msg=1 comment=
+DO2MIB-2	APRNFW	WIDE2-1,qAR,DO2MIB-10	position lat=47.71400 lon=7.66067 amb=0 sym=/_ crs=- spd=- alt=- msg=0 wx=dir:-,spd:-,gust:-,t:48,r:-,p:-,P:-,h:76,b:9772,L:-,snow:- comment= U=2971mV Wetterstation Kandern 2 EXPERIMENTAL 
+DL1TOB-9	APLT00	WIDE1-1,qAO,DB0KLI-11	position lat=48.11150 lon=8.75833 amb=0 sym=/> crs=1 spd=21.0 alt=3144 msg=0 comment=Tobias !wWZ!
+HB9TG-10	APDW18	qAR,HB9ZG-2	position lat=47.49417 lon=9.19617 amb=0 sym=/# crs=- spd=- alt=- msg=0 comment=APRS Digipeater
+DC1MAK-10	APRS	TCPIP*,qAC,T2DENMARK	position lat=48.37200 lon=9.63500 amb=0 sym=I& crs=- spd=- alt=- msg=1 comment=DC1MAK LoRa iGate
+DH3MIT-10	APGE01	TCPIP*,qAC,T2FINLAND	status time=dayHourMinute(day: 21, hour: 11, minute: 37, isUTC: true) text=Ant. X-300, APRS I Gate Jäger-EDV
+DJ3GI-12	APLRG1	TCPIP*,qAC,T2LAUSITZ	position lat=48.24450 lon=9.93060 amb=0 sym=L& crs=- spd=- alt=- msg=1 comment=LoRa APRS
+DE1HMS-7	APLRT1	WIDE1-1,qAO,DA0Y-10	position lat=48.13066 lon=9.16606 amb=0 sym=/> crs=- spd=- alt=2495 msg=1 comment=
+DK0SAM-10	APLRG1	TCPIP*,qAC,T2UKRAINE	position lat=48.59304 lon=8.11644 amb=0 sym=L& crs=- spd=- alt=- msg=0 comment=LoRa APRS  iGate Kappelrodeck
+DB0OA-Y	APCHP0	TCPIP*,qAC,DB0OA-YS	position lat=47.69117 lon=10.26633 amb=0 sym=\# crs=- spd=- alt=0 msg=0 comment=70cm MMDVM Voice (C4FM) 438.21250MHz -7.6000MHz, APRS for YSFGateway
+DB0OA-Y	APCHP0	qAS,DB0OA	status time=- text=Powered by WPSD (https://wpsd.radio)
+DB0OA-R	APCHP0	TCPIP*,qAC,DB0OA-RS	position lat=47.69117 lon=10.26633 amb=0 sym=\# crs=- spd=- alt=49 msg=0 comment=70cm MMDVM Voice (DMR) 438.21250MHz -7.6000MHz, APRS for DMRGateway
+DB0OA-R	APCHP0	qAS,DB0OA	status time=- text=Powered by WPSD (https://wpsd.radio)
+HB9EMQ-4	TWQXV4	WIDE1-1,WIDE2-1,qAR,HB9ZG-2	position lat=47.31067 lon=7.77117 amb=0 sym=/y crs=167 spd=1.0 alt=1460 msg=0 mice=standard(0) comment=`DX 1296.200 SSB / 145.375 GM / TG-2280   _%
+DC1ORA-1	APOT30	WIDE2-1,qAR,HB9BB	position lat=47.55000 lon=9.70000 amb=0 sym=// crs=- spd=- alt=- msg=0 comment= 12.0V 13C 
+OE9XVI-6	APMI06	TCPIP*,qAC,T2AUSTRIA	position lat=47.20883 lon=9.59150 amb=0 sym=/_ crs=- spd=- alt=- msg=1 time=dayHourMinute(day: 21, hour: 11, minute: 37, isUTC: true) comment=WX3in1 iGate Vorderaelpele U=11.9V
+HB9AK-10	APRS	TCPIP*,qAC,THIRD	position lat=47.37100 lon=8.94150 amb=0 sym=L& crs=- spd=- alt=- msg=1 phg=0/10/0/- comment= LoRa iGate SWISS-ARTG
+HB9E-11	TW1QX0	TCPIP*,qAC,T2PRT	position lat=47.19667 lon=7.59733 amb=0 sym=/& crs=38 spd=0.0 alt=1512 msg=0 mice=standard(1) comment=Museum Enter
+DL1TOB-9	APLT00	WIDE1-1,qAO,DB0KLI-11	position lat=48.11067 lon=8.75783 amb=0 sym=/> crs=196 spd=24.0 alt=3042 msg=0 comment= !w:G!
+DB0WBD-10	APMI04	WIDE1-1,qAR,HB9ZG-2	position lat=47.82467 lon=8.34200 amb=0 sym=L# crs=- spd=- alt=- msg=1 time=dayHourMinute(day: 21, hour: 11, minute: 19, isUTC: true) comment=APRS Digi Bonndorf/Wacht U=13.7V.
+DG4SEP-10	APLG01	TCPIP*,qAC,T2UK	position lat=48.65067 lon=9.19433 amb=0 sym=L& crs=- spd=- alt=- msg=1 comment=LoRa iGATE JN48OP
+F6HOR-6	APLC13	TCPIP*,qAC,T2CZECH	position lat=48.10160 lon=7.23516 amb=0 sym=/r crs=- spd=- alt=2148 msg=0 comment=LoRa-System
+DF1GU-5	APLRT1	WIDE1-1,qAO,DF1GU-10	position lat=47.63236 lon=9.66422 amb=0 sym=/u crs=- spd=- alt=1464 msg=1 comment=
+HB9ZF-1	APX204	TCPIP*,qAC,T2FINLAND	position lat=47.28817 lon=8.88133 amb=0 sym=/& crs=- spd=- alt=- msg=1 comment=144.800MHz 10W Digi-IGate Bachtel, no answe
+HB3YDM-9	TW2VW5	HB3YGT-10,HB3YDM-10,WIDE1-1,WIDE2-1,qAR,HB9TG-10	position lat=47.44583 lon=9.05367 amb=0 sym=/> crs=249 spd=0.0 alt=1795 msg=0 mice=standard(1) comment=`_%
+HB9DDE-10	APRS	TCPIP*,qAC,FOURTH	position lat=47.29867 lon=7.88583 amb=0 sym=/_ crs=- spd=- alt=- msg=1 time=dayHourMinute(day: 21, hour: 9, minute: 48, isUTC: true) wx=dir:122,spd:0,gust:3,t:47,r:0,p:217,P:6,h:92,b:10204,L:-,snow:- comment=.DsVP
+DB7MJ-L5	APLC13	TCPIP*,qAC,T2EISBERG	position lat=47.51200 lon=10.28017 amb=0 sym=S> crs=- spd=- alt=- msg=0 comment=APRSCube
+F1ZIN-4	APFD25	DIRECT,qAR,DL1GKK	position lat=47.35867 lon=6.62683 amb=0 sym=V# crs=- spd=- alt=- msg=0 comment= PHG2730 DIGI APRS Fill-in 10W JN37HI 144.800
+DE1HMS-7	APLRT1	WIDE1-1,qAO,DA0Y-10	position lat=48.13372 lon=9.16286 amb=0 sym=/> crs=- spd=- alt=2530 msg=1 comment=
+HB9ZCF-10	APMI01	TCPIP*,qAS,HB9ZCF	position lat=47.46750 lon=8.57817 amb=0 sym=/- crs=- spd=- alt=- msg=1 time=dayHourMinute(day: 21, hour: 11, minute: 38, isUTC: true) comment=WX3in1Plus
+EL-F1ZGC	RXTLM-1	TCPIP,qAR,F1ZGC	message to=EL-F1ZGC kind=text id=- reply=- text=UNIT.RX Erlang,TX Erlang,RXcount/10m,TXcount/10m,none1,STxxxxxx,logic
+OE9XKV-10	APMI06	TCPIP*,qAC,T2AUSTRIA	position lat=47.38817 lon=9.75017 amb=0 sym=/& crs=- spd=- alt=- msg=1 time=dayHourMinute(day: 21, hour: 11, minute: 37, isUTC: true) comment=WX3in1 Karren Dornbirn U=13.5V,T=22.0C
+EL-F1ZGC	RXTLM-1	TCPIP,qAR,F1ZGC	telemetry seq=069 analog=0.00,0.00,0.00,0.00,0.00 digital=00000000 comment=,SimplexLogic2
+HB9FGO-10	APLRG1	TCPIP*,qAC,T2FINLAND	position lat=46.75797 lon=8.07290 amb=0 sym=La crs=- spd=- alt=- msg=0 comment=LoRa iGATE - Hofstetten bei Brienz
+HB9CU-5	APRSGW	TCPIP*,qAR,HB9CU-5	position lat=47.22150 lon=9.10717 amb=0 sym=/# crs=- spd=- alt=4731 msg=0 comment=Tanzboden SG#HB9VQQ/N5
+HB3YPI-10	TW1XSL	qAR,HB9ZF-1	position lat=47.30583 lon=8.75417 amb=1 sym=/- crs=205 spd=0.0 alt=1519 msg=0 mice=standard(1) comment=`HB3YPI-HOME-QRV-439.225-FM-RPT.GOSSAU-ZH_)
+IW2DWN-9	TV1YT1	WIDE1-1,WIDE2-1,qAR,IZ2EWR-11	position lat=46.32350 lon=9.40183 amb=0 sym=/> crs=217 spd=0.0 alt=1099 msg=0 mice=standard(1) comment=`Op Gabriele _1
+DL1TOB-9	APLT00	WIDE1-1,qAO,DB0KLI-11	position lat=48.10883 lon=8.75650 amb=0 sym=/> crs=231 spd=24.0 alt=2982 msg=0 comment= !w<{!
+DB0FRB	APRX29	TCPIP*,qAC,T2CZECH	object name=DK0FR live=1 lat=48.01950 lon=7.83833 amb=0 sym=/y crs=- spd=- alt=- msg=0 time=dayHourMinute(day: 11, hour: 11, minute: 11, isUTC: true) comment=Clubstation OV A05/Freiburg; http://www.dk0fr.de
+HB9TUU-10	APLG01	TCPIP*,qAC,T2PRT	position lat=47.11517 lon=9.17817 amb=0 sym=L& crs=- spd=- alt=- msg=1 comment=LoRa iGATE & Digi, Info: github.com/lora-aprs/LoRa_APRS_iGate
+HB9FIL-10	APGW1K	TCPIP*,qAC,THIRD	position lat=46.93433 lon=7.61667 amb=0 sym=/# crs=- spd=- alt=- msg=0 comment=GW-1000, FT7800 5W, Diamod X30 14.1V
+HB9FM-4	APMI06	TCPIP*,qAC,T2LAUSITZ	telemetry seq=070 analog=186.00,51.00,15.00,84.00,81.00 digital=00000000 comment=
+OE9SAU-13	APN100	TCPIP*,qAC,T2AUSTRIA	position lat=47.24617 lon=9.64783 amb=0 sym=/- crs=- spd=- alt=- msg=1 comment=My QTH: Temp: 11.7°C * Hum: 79.2% * Pres: 1020hPA * Wind: N 0km/h * Rain: 0.0mm/h * Rain: 2.0mm/d * particulate-matter: PM2.5: 2.03µg/m³ PM10: 2.37µg/m³ * Solar: gridP: 0.00W dailyEnergy: 0.103kW/h
+F5ZKS	APDW18	TCPIP*,qAC,HAMCLOUD1	object name=F1ZDG live=1 lat=47.98067 lon=7.12567 amb=0 sym=/r crs=- spd=- alt=- msg=0 time=dayHourMinute(day: 1, hour: 0, minute: 0, isUTC: true) comment=145.625MHz T-1750 -060 relais_VHF
+HB9FG-5	APRX29	TCPIP*,qAC,T2SWEDEN	position lat=46.81450 lon=7.18800 amb=0 sym=I& crs=- spd=- alt=- msg=0 comment=iGate Uebewil JN36ot
+OE9KHJ	APSVX1	TCPIP*,qAC,T2HUN	object name=EL-OE9KHJ live=1 lat=47.40083 lon=9.71850 amb=0 sym=E0 crs=- spd=- alt=- msg=0 time=dayHourMinute(day: 11, hour: 11, minute: 11, isUTC: true) phg=4/80/6/- comment=/430.100MHz T085 R18k SVX-LINK AUSTRIA (https://svxlink-au
+OE9KHJ	APSVX1	TCPIP*,qAC,T2HUN	object name=OE9KHJ live=1 lat=47.40083 lon=9.71850 amb=0 sym=S0 crs=- spd=- alt=- msg=0 time=dayHourMinute(day: 11, hour: 11, minute: 11, isUTC: true) phg=4/80/6/- comment=/430.100MHz T085 R18k SVX-LINK AUSTRIA (https://svxlink-au
+DG8GAA-18	APLRT1	WIDE1-1,qAO,DA0Y-10	position lat=47.89225 lon=9.31005 amb=0 sym=/> crs=- spd=- alt=2170 msg=1 comment=|"r%P|
+HB3XRV-7	APOSBM	TCPIP*,qAS,HB3XRV	position lat=47.04783 lon=8.61250 amb=0 sym=/[ crs=- spd=- alt=1443 msg=1 time=dayHourMinute(day: 21, hour: 11, minute: 38, isUTC: true) comment=SharkRF M1KE D-Star
+DO2MIB-10	APWW11	TCPIP*,qAC,T2PANAMA	status time=- text=JN37tr/Z QRV 439.175
+DH1GAP-13	APGE01	qAS,DH1GAP-10	position lat=47.83783 lon=8.92600 amb=0 sym=/_ crs=- spd=- alt=- msg=0 wx=dir:0,spd:13,gust:-,t:49,r:0,p:6,P:-,h:83,b:10280,L:-,snow:- comment=
+F5ZKS	APDW18	TCPIP*,qAC,HAMCLOUD1	position lat=47.98083 lon=7.12567 amb=0 sym=R& crs=- spd=- alt=- msg=0 comment=144.800MHz APRS RX iGate F5ZKS
+DL1GHN-6	APU25N	TCPIP*,qAS,DL1GHN-1	position lat=48.37367 lon=7.88883 amb=0 sym=/_ crs=- spd=- alt=- msg=1 time=dayHourMinute(day: 21, hour: 11, minute: 38, isUTC: true) wx=dir:230,spd:4,gust:6,t:49,r:0,p:20,P:12,h:84,b:10207,L:109,snow:- comment=Wetter Friesenheim JN38WI 169m asl
+HB9HBT-11	APLRG1	TCPIP*,qAC,T2DENMARK	position lat=46.83650 lon=9.30233 amb=0 sym=L& crs=- spd=- alt=- msg=0 comment=LoRa APRS iGate Flims
+OE9MNR-8	APBM1D	TCPIP*,qAR,BM2322-10	position lat=47.47350 lon=9.74517 amb=0 sym=/8 crs=360 spd=0.0 alt=1444 msg=1 comment=Michi @ P50
+DM0ESS	APMI06	TCPIP*,qAC,T2POLAND	position lat=47.51183 lon=10.28033 amb=0 sym=/# crs=- spd=- alt=- msg=1 time=dayHourMinute(day: 21, hour: 11, minute: 38, isUTC: true) comment=APRS iGate Sonthofen/Allgaeu
+DB0SWS-10	APLG01	TCPIP*,qAC,T2SWEDEN	position lat=48.57650 lon=8.13883 amb=0 sym=L& crs=- spd=- alt=- msg=1 comment=LoRa iGATE & Digi Furschenbach
+F5ZKS	APDW18	TCPIP*,qAC,HAMCLOUD1	object name=F6KDL live=1 lat=47.80033 lon=7.31550 amb=0 sym=/- crs=- spd=- alt=- msg=0 time=dayHourMinute(day: 1, hour: 0, minute: 0, isUTC: true) comment=HTTPS://www.ref68.com/
+HB9LU-15	APLRG1	TCPIP*,qAC,T2ROMANIA	position lat=47.02820 lon=8.21662 amb=0 sym=La crs=- spd=- alt=- msg=0 comment=https://hb9lu.ch/technik/ LoRa APRS i-Gate Lehn Batt=4.24V
+DF1GU-5	APLRT1	WIDE1-1,qAO,DF1GU-10	position lat=47.63157 lon=9.66347 amb=0 sym=/u crs=- spd=- alt=1472 msg=1 comment=
+DM0ESS	APMI06	WIDE2-2,qAR,DB0ZD-10	position lat=47.51183 lon=10.28033 amb=0 sym=/# crs=- spd=- alt=- msg=1 time=dayHourMinute(day: 21, hour: 11, minute: 38, isUTC: true) comment=C4FM 438.31250MHz -7.6MHz
+DB0MOE-6	APU25N	TCPIP*,qAS,DB0MOE	position lat=48.59683 lon=8.07383 amb=0 sym=/_ crs=- spd=- alt=- msg=1 time=dayHourMinute(day: 21, hour: 11, minute: 38, isUTC: true) wx=dir:292,spd:1,gust:2,t:47,r:0,p:44,P:30,h:80,b:10005,L:-,snow:- comment=WX Msbach
+HB9HUT-S	APDG01	TCPIP*,qAC,HB9HUT-GS	object name=HB9HUT B live=1 lat=47.02983 lon=9.07917 amb=0 sym=Da crs=- spd=- alt=10 msg=0 time=dayHourMinute(day: 21, hour: 11, minute: 38, isUTC: true) rng=1.0 comment= 70cm Voice (D-Star) 438.23500MHz +0.0000MHz
+DL1TOB-9	APLT00	WIDE1-1,qAS,DH0GME-10	position lat=48.10667 lon=8.75250 amb=0 sym=/> crs=205 spd=29.0 alt=2958 msg=0 comment= !w#V!
+DM0ESS	APMI06	TCPIP*,qAC,T2POLAND	position lat=47.51183 lon=10.28033 amb=0 sym=/# crs=- spd=- alt=- msg=1 time=dayHourMinute(day: 21, hour: 11, minute: 38, isUTC: true) comment=SysOP DB7MJ
+DL3LD-10	APLRG1	TCPIP*,qAC,T2CZECH	position lat=48.09199 lon=9.79493 amb=0 sym=La crs=- spd=- alt=- msg=1 comment=LoRa APRS Biberach
+DF1IAN-12	APLRT1	WIDE1-1,qAR,DF1IAN-10	position lat=47.69297 lon=8.76363 amb=0 sym=/v crs=- spd=- alt=1511 msg=1 comment=
+OE9AFV-3	APRS	qAR,OE9XFV-10	position lat=47.48017 lon=9.71983 amb=0 sym=/3 crs=- spd=- alt=- msg=0 comment=Alex, Tetra MTM5400
+F5ZKS	APDW18	TCPIP*,qAC,HAMCLOUD1	object name=F1ZDA live=1 lat=47.98050 lon=7.12550 amb=0 sym=/r crs=- spd=- alt=- msg=0 time=dayHourMinute(day: 1, hour: 0, minute: 0, isUTC: true) comment=430.075MHz T-1750 +160 UHF_Relais
+HB9GFF-10	APRS	qAR,HB9GFF-12	position lat=47.43700 lon=8.84150 amb=0 sym=/_ crs=- spd=- alt=- msg=0 wx=dir:0,spd:0,gust:-,t:49,r:-,p:-,P:-,h:10,b:-,L:-,snow:- comment=0b09560 WX-Turbenthal
+HB3YNP-S	APDG01	TCPIP*,qAC,HB3YNP-GS	object name=HB3YNP B live=1 lat=47.22217 lon=7.11117 amb=0 sym=Da crs=- spd=- alt=10 msg=0 time=dayHourMinute(day: 21, hour: 11, minute: 38, isUTC: true) rng=1.0 comment= 70cm Voice (D-Star) 430.37500MHz +0.0000MHz
+IW2EJH-5	APLRT1	WIDE1-1,qAR,HB9WDF-15	position lat=47.17996 lon=8.11484 amb=0 sym=/[ crs=- spd=- alt=1805 msg=1 comment=
+HB9GL-13	APLG01	TCPIP*,qAC,T2KA	position lat=46.99317 lon=9.06717 amb=0 sym=L& crs=- spd=- alt=- msg=1 comment=LoRa iGATE Schwanden JN46MX
+HB9INU-10	APLRG1	TCPIP*,qAC,T2CSNGRAD	position lat=47.55117 lon=7.54667 amb=0 sym=L& crs=- spd=- alt=- msg=1 comment=LoRa_APRS_iGate_Allschwil_Switzerland
+HB9EKO-10	APLG01	TCPIP*,qAC,T2CZECH	position lat=47.52233 lon=8.53300 amb=0 sym=L& crs=- spd=- alt=- msg=1 comment=LoRa APRS iGATE JN47GM
+DG5GSA-12	APLRT1	WIDE1-1,qAO,DL2GHM	position lat=48.13643 lon=7.80598 amb=0 sym=/> crs=- spd=- alt=789 msg=1 comment=
+ER-DB0HRH	APSVX1	WIDE1-1,qAS,DB0HRH	telemetry seq=889 analog=0.00,15.00,0.00,1.00,0.00 digital=00000000 comment=
+HB3XZD-1	APBM1D	TCPIP*,qAR,HB9BO-10	position lat=46.92683 lon=7.11500 amb=0 sym=\! crs=360 spd=0.0 alt=1648 msg=1 comment=Joel RoIP
+HB9CR-4	APNU19-3	WIDE2-1,qAR,HB9FM-4	position lat=47.38000 lon=7.50583 amb=0 sym=/# crs=- spd=- alt=- msg=0 phg=4/10/3/- comment= APRS-DIGI Grindel SO 600m NN
+DB0KE-10	APLRG1	TCPIP*,qAC,T2PRT	position lat=47.70379 lon=10.32679 amb=0 sym=L_ crs=- spd=- alt=- msg=1 wx=dir:-,spd:-,gust:-,t:75,r:-,p:-,P:-,h:39,b:10247,L:-,snow:- comment=     iGATE Kempten Allgäu
+DO2RS-20	APRSGW	TCPIP*,qAR,DO2RS-20	position lat=47.69650 lon=9.60700 amb=0 sym=/# crs=- spd=- alt=1640 msg=0 comment=/N2
+HB9HUT-B	APDG02	TCPIP*,qAC,HB9HUT-BS	position lat=47.02983 lon=9.07917 amb=0 sym=D& crs=- spd=- alt=10 msg=0 rng=1.0 comment= 70cm Voice (D-Star) 438.23500MHz +0.0000MHz
+DM0ESS	APMI06	TCPIP*,qAC,T2POLAND	position lat=47.51183 lon=10.28033 amb=0 sym=/# crs=- spd=- alt=- msg=1 time=dayHourMinute(day: 21, hour: 11, minute: 38, isUTC: true) comment=WX3in1Plus2.0 U=13.7V,T=36.4C
+DG2MCM-16	APRS	WIDE1-1,qAR,DG2MCM-12	position lat=47.73333 lon=10.31667 amb=0 sym=/_ crs=- spd=- alt=- msg=0 comment=
+DL1TOB-9	APLT00	WIDE1-1,qAO,DB0KLI-11	position lat=48.10517 lon=8.75167 amb=0 sym=/> crs=229 spd=24.0 alt=2840 msg=0 comment= !wQM!
+F5ZKS	APDW18	TCPIP*,qAC,HAMCLOUD1	object name=F1ZBI live=1 lat=47.98033 lon=7.12550 amb=0 sym=/r crs=- spd=- alt=- msg=0 time=dayHourMinute(day: 1, hour: 0, minute: 0, isUTC: true) phg=1/10/0/90 comment=1296.812MHZ_CW_Beacon_1W_Antenna_PA-13R_dir_East-Petit_Ballon
+DB0WBD-10	APMI04	WIDE2-2,qAR,HB9ZG-2	message to=DB0WBD-10 kind=text id=- reply=- text=PARM.Vin,Rx1h,Dg1h,Eff1h,A5,O1,O2,O3,O4,I1,I2,I3,I4
+HB9DMB-31	APLT00	WIDE1-1,qAO,HB9DMB-22	position lat=46.89900 lon=7.38683 amb=0 sym=/[ crs=- spd=- alt=2079 msg=0 comment=LoRa Tracker -  _Bat.: 4.11V - Cur.:  0mA !w%F!
+HB3YNP-B	APDG02	TCPIP*,qAC,HB3YNP-BS	position lat=47.22217 lon=7.11117 amb=0 sym=D& crs=- spd=- alt=10 msg=0 rng=1.0 comment= 70cm Voice (D-Star) 430.37500MHz +0.0000MHz
+HB9EYF-10	APLG01	TCPIP*,qAC,T2LAUSITZ	position lat=47.53517 lon=7.72817 amb=0 sym=L& crs=- spd=- alt=- msg=1 comment=HB9EYF LoRa_APRS_iGate 70cm (RX only), Kaiseraugst AG, Switzerland JN37UM
+DB0WBD-10	APMI04	WIDE2-2,qAR,HB9ZG-2	message to=DB0WBD-10 kind=text id=- reply=- text=UNIT.Volt,Pkt,Pkt,Pcnt,None,On,On,On,On,Hi,Hi,Hi,Hi
+HB9ELZ-10	APLRG1	TCPIP*,qAC,T2PANAMA	position lat=47.37524 lon=8.89413 amb=0 sym=L& crs=- spd=- alt=- msg=0 comment=LoRa APRS
+DB0WBD-10	APMI04	WIDE2-2,qAR,HB9ZG-2	message to=DB0WBD-10 kind=text id=- reply=- text=EQNS.0,0.079,0,0,10,0,0,10,0,0,1,0,0,0,0
+DB0WBD-10	APMI04	WIDE2-2,qAR,HB9ZG-2	message to=DB0WBD-10 kind=text id=- reply=- text=BITS.11111111,Telemetry 
+HB9FR-10	APLRG1	TCPIP*,qAC,T2SPAIN	position lat=46.84962 lon=6.91568 amb=0 sym=L& crs=- spd=- alt=- msg=1 comment=LoRa APRS iGate 433, Ant=X500 Batt=4.29V
+DL2GKH-12	APRSMC	TCPIP*,qAR,DB0HRH-12	position lat=47.59417 lon=8.36667 amb=0 sym=/- crs=- spd=- alt=1411 msg=0 comment=MeshCom 4.0#Hermann/N2 
+OE9XVI-6	APMI06	TCPIP*,qAC,T2AUSTRIA	telemetry seq=108 analog=159.00,84.00,0.00,81.00,0.00 digital=00000000 comment=
+HB9BA-2	APDI22	TCPIP*,qAC,T2AUSTRIA	telemetry seq=689 analog=6.00,6.00,3.00,3.00,33.00 digital=10000000 comment=
+DM0ESS-S	APCHP0	TCPIP*,qAC,DM0ESS-GS	object name=DM0ESS B live=1 lat=47.51200 lon=10.28033 amb=0 sym=Wi crs=- spd=- alt=10 msg=0 time=dayHourMinute(day: 21, hour: 11, minute: 38, isUTC: true) rng=1.0 comment= 70cm Voice (D-Star) 439.31250MHz -7.6000MHz, APRS for ircDDBGateway
+DL2GKA-D	APCHP0	TCPIP*,qAC,DL2GKA-DS	position lat=47.65817 lon=8.42233 amb=0 sym=Wi crs=- spd=- alt=0 msg=0 comment=70cm MMDVM Voice (DMR) 433.62500MHz +0.0000MHz, APRS for DMRGateway
+DL2GKA-D	APCHP0	qAS,DL2GKA	status time=- text=Powered by WPSD (https://wpsd.radio)
+OE9XKV-10	APMI06	TCPIP*,qAC,T2AUSTRIA	message to=OE9XKV-10 kind=text id=- reply=- text=PARM.Vin,Rx1h,Dg1h,Eff1h,RTemp,O1,O2,O3,O4,I1,I2,I3,I4
+OE9XKV-10	APMI06	TCPIP*,qAC,T2AUSTRIA	message to=OE9XKV-10 kind=text id=- reply=- text=UNIT.Volt,Pkt,Pkt,Pcnt,°c,On,On,On,On,Hi,Hi,Hi,Hi
+HB9RQA-10	APX220	TCPIP*,qAC,T2RADOM	position lat=47.49550 lon=8.90217 amb=0 sym=/x crs=- spd=- alt=- msg=1 comment=
+OE9XKV-10	APMI06	TCPIP*,qAC,T2AUSTRIA	message to=OE9XKV-10 kind=text id=- reply=- text=EQNS.0,0.075,0,0,10,0,0,10,0,0,1,0,0,0.5,-64
+OE9XKV-10	APMI06	TCPIP*,qAC,T2AUSTRIA	message to=OE9XKV-10 kind=text id=- reply=- text=BITS.11111111,WX3in1Plus20 Telemetry
+HB9JAY-D	APCHP0	TCPIP*,qAC,HB9JAY-DS	position lat=47.01450 lon=8.64367 amb=0 sym=Wi crs=- spd=- alt=0 msg=0 comment=70cm MMDVM Voice (DMR) 439.60000MHz -9.4000MHz, APRS for DMRGateway
+HB9JAY-D	APCHP0	qAS,HB9JAY	status time=- text=Powered by WPSD (https://wpsd.radio)
+DL1TOB-9	APLT00	WIDE1-1,qAO,DB0KLI-11	position lat=48.10433 lon=8.75100 amb=0 sym=/> crs=170 spd=23.0 alt=2825 msg=0 comment= !wk4!
+HB9CU-4	APRSGW	TCPIP*,qAR,HB9CU-4	position lat=47.28817 lon=8.88133 amb=0 sym=I# crs=- spd=- alt=3264 msg=0 comment=Orn-Bachtel ZH#HB9VQQ/N14
+DB0WBD-10	APMI04	DB0TIT-10*,WIDE2-1,qAO,DB0FIS-11	telemetry seq=197 analog=179.00,0.00,0.00,100.00,0.00 digital=00000000 comment=
+HB9ELV-19	APLRG1	WIDE1-1,qAO,HB9ELV-18	position lat=47.56067 lon=8.54250 amb=0 sym=L# crs=- spd=- alt=- msg=1 comment=|&6%/|
+DG2MCM-11	APRS	TCPIP*,qAC,T2UKRAINE	position lat=47.72383 lon=10.32817 amb=0 sym=/_ crs=- spd=- alt=- msg=1 time=dayHourMinute(day: 21, hour: 11, minute: 38, isUTC: true) wx=dir:0,spd:0,gust:0,t:42,r:0,p:0,P:0,h:85,b:10211,L:-,snow:- comment= DG2MCM-11 Wx @685m RGB:OK
+DO2JM-9	APBM1D	DMR*,qAR,DL3OCK-12	position lat=47.74450 lon=9.00033 amb=0 sym=/> crs=113 spd=0.0 alt=- msg=1 time=hourMinuteSecond(hour: 11, minute: 38, second: 48) comment=Juergen A01
+DM0ESS-B	APCHP0	TCPIP*,qAC,DM0ESS-BS	position lat=47.51200 lon=10.28033 amb=0 sym=Wi crs=- spd=- alt=10 msg=0 rng=1.0 comment= 70cm Voice (D-Star) 439.31250MHz -7.6000MHz, APRS for ircDDBGateway
+DM0ESS-B	APCHP0	qAS,DM0ESS	status time=- text=Powered by WPSD (https://wpsd.radio)
+OE9XKV-10	APMI06	TCPIP*,qAC,T2AUSTRIA	telemetry seq=073 analog=181.00,98.00,0.00,82.00,172.00 digital=00000000 comment=
+HB9EUE-L	APLG01	TCPIP*,qAC,HB9EUE-IS	position lat=47.44283 lon=8.32900 amb=0 sym=L& crs=- spd=- alt=- msg=1 comment=LoRa iGATE & Digi, Info: github.com/lora-aprs/LoRa_APRS_iGate
+HB3YDM-9	TW2VW5	HB3YGT-10,HB3YDM-10,WIDE1-1,WIDE2-1,qAR,HB9TG-10	position lat=47.44583 lon=9.05367 amb=0 sym=/> crs=249 spd=0.0 alt=1795 msg=0 mice=standard(1) comment=`vy 73 de Martin / Mobile_%
+DL1TOB-9	APLT00	WIDE1-1,qAS,DH0GME-10	position lat=48.10350 lon=8.75167 amb=0 sym=/> crs=192 spd=16.0 alt=2787 msg=0 comment= !w[$!
+OE9XKV-10	APMI06	WIDE2-2,qAO,DL1HQD-10	telemetry seq=072 analog=181.00,98.00,0.00,82.00,172.00 digital=00000000 comment=
+OE9TFH-11	TW1QY3	TCPIP*,qAC,T2ROMANIA	position lat=47.19883 lon=9.75100 amb=0 sym=/[ crs=215 spd=2.0 alt=1755 msg=0 mice=standard(1) comment=PicoAPRS by DB1NTO
+HB9IJS-9	APLRT1	WIDE1-1,qAO,HB9UW-11	position lat=46.96630 lon=8.29393 amb=0 sym=/> crs=- spd=- alt=1455 msg=1 comment=
+DB0TIT	APRS	TCPIP*,qAC,T2PRT	object name=EL-DB0TIT live=1 lat=47.94750 lon=8.23333 amb=0 sym=E0 crs=- spd=- alt=- msg=0 time=dayHourMinute(day: 11, hour: 11, minute: 11, isUTC: true) comment=145.238MHz T077 R12k SvxLink at DB0TIT-L Node #395773 JN47CW
+DE1HMS-7	APLRT1	WIDE1-1,qAO,DA0Y-10	position lat=48.14430 lon=9.14832 amb=0 sym=/> crs=- spd=- alt=2649 msg=1 comment=
+DG5GSA-12	APLRT1	WIDE1-1,qAO,DL2GHM	position lat=48.13324 lon=7.80674 amb=0 sym=/> crs=- spd=- alt=769 msg=1 comment=
+HB9FHL-13	APK003	WIDE1-1,WIDE2-1,qAO,HB9ZZ-1	position lat=47.16817 lon=8.67800 amb=0 sym=/_ crs=- spd=- alt=- msg=1 wx=dir:316,spd:3,gust:6,t:46,r:-,p:-,P:9,h:-,b:10175,L:-,snow:- comment=KU2k
+DL1TOB-9	APLT00	WIDE1-1,qAS,DH0GME-10	position lat=48.10283 lon=8.75067 amb=0 sym=/> crs=223 spd=28.0 alt=2712 msg=0 comment= !w'>!
+DB0GKM	APRX28	TCPIP*,qAC,HAMCLOUD1	object name=DB0GKM-10 live=1 lat=48.42483 lon=9.15083 amb=0 sym=R& crs=- spd=- alt=- msg=0 time=dayHourMinute(day: 11, hour: 11, minute: 11, isUTC: true) comment=APRX RX-iGate Goenningen.
+HB9HD-C	APJI43	TCPIP*,qAC,HB9HD-GS	position lat=47.49567 lon=9.08150 amb=0 sym=D& crs=- spd=- alt=- msg=0 rng=20.0 comment= 2m Voice 145.5875 -0.600 MHz
+HB9HD-C	APJI43	TCPIP*,qAC,HB9HD-GS	unparsed
+HB9GNW-20	APRSMC	WIDE1-1,qAO,HB3XCO-10	position lat=47.16480 lon=8.30190 amb=0 sym=\L crs=- spd=- alt=- msg=0 comment=
+DB7GV-15	APLT00-1	WIDE1-1,qAO,DB0WT-10	position lat=47.77990 lon=8.46330 amb=0 sym=/# crs=- spd=- alt=- msg=1 comment=
+EL-HB9NCZ	RXTLM-1	TCPIP,qAR,HB9NCZ	message to=EL-HB9NCZ kind=text id=- reply=- text=UNIT.RX Erlang,TX Erlang,RXcount/10m,TXcount/10m,none1,STxxxxxx,logic
+EL-HB9NCZ	RXTLM-1	TCPIP,qAR,HB9NCZ	telemetry seq=587 analog=0.00,0.00,0.00,0.00,0.00 digital=00000000 comment=,SimplexLogic
+DG3GAI-6	APRS	qAR,DG3GAI-15	position lat=48.06683 lon=8.34017 amb=0 sym=/_ crs=- spd=- alt=- msg=0 wx=dir:0,spd:0,gust:-,t:42,r:-,p:-,P:-,h:10,b:-,L:-,snow:- comment=0b10220LoRa-WX Unterkirnach/Schw. 852m asl/ http://www.kh-gps.de/LoRa_WX.htm
+F1ZIN-4	APFD25	FC2-2,qAR,HB9ZG-2	position lat=47.35867 lon=6.62683 amb=0 sym=V# crs=- spd=- alt=- msg=0 comment= DIGI APRS DES MONTS DU LOMONT 835m ASL
+DB0FRB	APRX29	TCPIP*,qAC,T2CZECH	object name=DL0FIS live=1 lat=48.04183 lon=8.16950 amb=0 sym=/y crs=- spd=- alt=- msg=0 time=dayHourMinute(day: 11, hour: 11, minute: 11, isUTC: true) comment=Clubstation OV A18/Furtwangen; https://www.darc.de/a18/
+DO2MIB-10	APWW11	TCPIP*,qAC,T2PANAMA	status time=- text=JN37tr/Z QRV 439.175
+DH1GAP-13	APGE01	qAS,DH1GAP-10	position lat=47.83783 lon=8.92600 amb=0 sym=/_ crs=- spd=- alt=- msg=0 wx=dir:0,spd:6,gust:-,t:49,r:0,p:6,P:-,h:83,b:10280,L:-,snow:- comment=
+DB0TIT-8	APLRG1	TCPIP*,qAC,T2ROMANIA	position lat=47.94746 lon=8.23324 amb=0 sym=L& crs=- spd=- alt=- msg=1 comment=LoRa APRS iGate Titisee-Neustadt|'E%`|
+DL1TOB-9	APLT00	WIDE1-1,qAS,DH0GME-10	position lat=48.10183 lon=8.74983 amb=0 sym=/> crs=200 spd=23.0 alt=2653 msg=0 comment= !wt\!
+CW79215	APLRG1	TCPIP*,qAC,T2NUERNBG	position lat=48.17070 lon=8.06340 amb=0 sym=L_ crs=- spd=- alt=- msg=1 wx=dir:-,spd:-,gust:-,t:47,r:-,p:-,P:-,h:78,b:10298,L:-,snow:- comment=Weather CasaLMO
+HB9CJD-41	APRSGW	TCPIP*,qAR,HB9CJD-41	position lat=47.37200 lon=8.55383 amb=0 sym=/# crs=- spd=- alt=1657 msg=0 comment=/B=100
+ER-OE9XKV	RXTLM-1	TCPIP,qAR,OE9XKV	message to=ER-OE9XKV kind=text id=- reply=- text=UNIT.RX Erlang,TX Erlang,RXcount/10m,TXcount/10m,none1,STxxxxxx,logic
+ER-OE9XKV	RXTLM-1	TCPIP,qAR,OE9XKV	telemetry seq=242 analog=0.00,0.02,0.00,3.00,0.00 digital=00000000 comment=,RepeaterLogic
+DC2TH-10	APLG01	TCPIP*,qAC,T2BELGIUM	position lat=47.76200 lon=9.54017 amb=0 sym=L& crs=- spd=- alt=- msg=1 comment=LoRa iGATE & Digi, Info: github.com/lora-aprs/LoRa_APRS_iGate
+IW2EJH-5	APLRT1	WIDE1-1,qAR,HB9WDF-15	position lat=47.18027 lon=8.09862 amb=0 sym=/[ crs=- spd=- alt=1795 msg=1 comment=|"Y$t|
+DE1HMS-7	APLRT1	WIDE1-1,qAO,DA0Y-10	position lat=48.14757 lon=9.14562 amb=0 sym=/> crs=- spd=- alt=2655 msg=1 comment=
+ER-HB9AK	APSVX1	WIDE1-1,qAS,HB9AK	telemetry seq=883 analog=0.00,10.00,0.00,1.00,0.00 digital=00000000 comment=
+DG5GSA-12	APLRT1	WIDE1-1,qAO,DL2GHM	position lat=48.13173 lon=7.80818 amb=0 sym=/> crs=- spd=- alt=771 msg=1 comment=
+HB9H-11	APMI06	TCPIP*,qAS,HB9H	position lat=46.10433 lon=8.86500 amb=0 sym=/- crs=- spd=- alt=- msg=1 time=dayHourMinute(day: 21, hour: 11, minute: 39, isUTC: true) comment=WX3in1Plus2.0 U=14.6V,T=20.0C/68.0F
+DL8VA-D	APCHP0	TCPIP*,qAC,DL8VA-DS	position lat=47.67783 lon=9.59400 amb=0 sym=Wi crs=- spd=- alt=0 msg=0 comment=70cm MMDVM Voice (DMR) 433.51250MHz +0.0000MHz, APRS for DMRGateway
+DL8VA-D	APCHP0	qAS,DL8VA	status time=- text=Powered by WPSD (https://wpsd.radio)
+HB9HD-S	APJIO4	TCPIP*,qAC,HB9HD-GS	object name=HB9HD  C live=1 lat=47.49567 lon=9.08150 amb=0 sym=Da crs=- spd=- alt=- msg=0 time=dayHourMinute(day: 18, hour: 9, minute: 5, isUTC: true) rng=20.0 comment= 2m Voice 145.5875 -0.600 MHz
+HB9FDL-1	T7RYP7	WIDE1-1,WIDE2-1,qAR,HB9ZG-1	position lat=47.48450 lon=8.18917 amb=0 sym=/- crs=- spd=0.0 alt=- msg=0 mice=standard(2) comment=]Teemu Riniken 73=
+OE9XVD-6	APMI06	TCPIP*,qAC,T2CZECH	position lat=47.15433 lon=9.82400 amb=0 sym=/& crs=- spd=- alt=- msg=1 time=dayHourMinute(day: 21, hour: 11, minute: 39, isUTC: true) comment=WX3in1Plus2.0 U=14.0V,T=8.0C
+OE9MNR-8	APBM1D	TCPIP*,qAR,BM2322-10	position lat=47.47333 lon=9.74517 amb=0 sym=/8 crs=360 spd=0.0 alt=1444 msg=1 comment=Michi @ P50
+DB0TN-10	AP4R10	TCPIP*,qAC,HAMCLOUD3	position lat=48.33867 lon=8.15400 amb=0 sym=I& crs=- spd=- alt=- msg=0 comment=APRS4R IGATE Brandenkopf
+ER-HB9HD	RXTLM-1	TCPIP,qAR,HB9HD	message to=ER-HB9HD kind=text id=- reply=- text=UNIT.RX Erlang,TX Erlang,RXcount/10m,TXcount/10m,none1,STxxxxxx,logic
+ER-HB9HD	RXTLM-1	TCPIP,qAR,HB9HD	telemetry seq=307 analog=0.01,0.00,1.00,0.00,0.00 digital=00000000 comment=,SimplexLogic
+DK2PI-12	APRSMC	TCPIP*,qAR,DL6ABE-4	position lat=48.70050 lon=8.12433 amb=0 sym=/# crs=- spd=- alt=427 msg=0 comment=GW Bühl/West#Hartmut/B=100
+DB0MOE-6	APU25N	TCPIP*,qAS,DB0MOE	position lat=48.59683 lon=8.07383 amb=0 sym=/_ crs=- spd=- alt=- msg=1 time=dayHourMinute(day: 21, hour: 11, minute: 39, isUTC: true) wx=dir:284,spd:1,gust:2,t:47,r:0,p:44,P:30,h:80,b:10005,L:-,snow:- comment=WX Msbach
+HB9GPU-10	APLRG1	TCPIP*,qAC,T2CSNGRAD	position lat=47.18200 lon=9.44500 amb=0 sym=L_ crs=- spd=- alt=- msg=1 wx=dir:-,spd:-,gust:-,t:60,r:-,p:-,P:-,h:37,b:10245,L:-,snow:- comment=LoRa/APRS_iGATE Batt=4.29V Ext=0.77V
+EL-HB9CVG	RXTLM-1	TCPIP,qAR,HB9CVG	message to=EL-HB9CVG kind=text id=- reply=- text=UNIT.RX Erlang,TX Erlang,RXcount/10m,TXcount/10m,none1,STxxxxxx,logic
+EL-HB9CVG	RXTLM-1	TCPIP,qAR,HB9CVG	telemetry seq=113 analog=0.00,0.00,0.00,0.00,0.00 digital=00000000 comment=,SimplexLogic
+DG6GU-19	APLT00	WIDE1-1,qAO,DB0DB-10	position lat=47.84383 lon=7.57750 amb=0 sym=/> crs=129 spd=0.0 alt=694 msg=0 comment=LoRa Tracker -  _Bat.: 4.14V - Cur.:  0mA !wKX!
+OE9AFV-3	APRS	qAR,OE9XFV-10	position lat=47.48017 lon=9.71983 amb=0 sym=/3 crs=- spd=- alt=- msg=0 comment=Alex, Tetra MTM5400
+HB9SZU-7	APYSNR	TCPIP*,qAS,HB9SZU	position lat=46.17033 lon=9.08117 amb=0 sym=/_ crs=- spd=- alt=- msg=1 time=dayHourMinute(day: 21, hour: 11, minute: 39, isUTC: true) wx=dir:-,spd:-,gust:-,t:58,r:-,p:-,P:-,h:45,b:9350,L:-,snow:- comment=Node-RED WX Station Melera
+HB9BBE-16	APRSMC	TCPIP*,qAR,HB9VQQ-99	telemetry seq=455 analog=935.70,20.30,48.60,1011.60,0.00 digital=00000000 comment=
+HB9BBE-16	APRSMC	TCPIP*,qAR,HB9VQQ-99	position lat=47.34717 lon=8.64167 amb=0 sym=/# crs=- spd=- alt=2156 msg=0 comment=/B=100/N8
+HB9INU-10	APLRG1	TCPIP*,qAC,T2CSNGRAD	position lat=47.55117 lon=7.54667 amb=0 sym=L& crs=- spd=- alt=- msg=1 comment=LoRa_APRS_iGate_Allschwil_Switzerland
+HB9BLA-10	APLRG1	TCPIP*,qAC,T2SWEDEN	position lat=47.47470 lon=7.76727 amb=0 sym=La crs=- spd=- alt=- msg=0 comment=Lausen
+DE1HMS-7	APLRT1	WIDE1-1,qAO,DA0Y-10	position lat=48.15114 lon=9.14398 amb=0 sym=/> crs=- spd=- alt=2660 msg=1 comment=
+HB9GFF-10	APRS	qAR,HB9GFF-12	position lat=47.43700 lon=8.84150 amb=0 sym=/_ crs=- spd=- alt=- msg=0 wx=dir:0,spd:0,gust:-,t:48,r:-,p:-,P:-,h:10,b:-,L:-,snow:- comment=0b09560 WX-Turbenthal
+DO2GR-10	APRX28	TCPIP*,qAC,T2KA	message to=DO2GR-10 kind=text id=- reply=- text=UNIT.Rx Erlang,Tx Erlang,count/10m,count/10m,count/10m
+HB9EFX-14	APRS	TCPIP*,qAC,T2FINLAND	position lat=47.36567 lon=8.83117 amb=0 sym=/_ crs=- spd=- alt=- msg=1 time=dayHourMinute(day: 21, hour: 11, minute: 39, isUTC: true) wx=dir:10,spd:5,gust:8,t:43,r:0,p:-,P:0,h:-,b:-,L:-,snow:- comment=00h86b10180L070 WX-Station
+HB9HXZ-20	APRSMC	TCPIP*,qAR,HB9HXZ-10	position lat=47.43867 lon=8.10517 amb=0 sym=/- crs=- spd=- alt=1329 msg=0 comment=LILYGO T-DECK#HB9HXZ/B=100/N1
+F4MAJ-10	APLRG1	TCPIP*,qAC,T2PANAMA	position lat=47.77824 lon=7.34502 amb=0 sym=La crs=- spd=- alt=- msg=1 comment=LoRa APRS de F4MAJ
+HB9SJE-14	APFMNB	TCPIP*,qAC,T2ROMANIA	position lat=47.60833 lon=8.76350 amb=0 sym=/- crs=- spd=- alt=- msg=0 comment= FM-Funknetz APRS-Client (v5.37 by DL3EL(s)(a)(m)) 
+DB0WT-12	APDW16	TCPIP*,qAC,T2UKRAINE	position lat=47.78350 lon=8.47283 amb=0 sym=R& crs=- spd=- alt=- msg=0 comment=
+IW2EJH-5	APLRT1	WIDE1-1,qAR,HB9WDF-15	position lat=47.17988 lon=8.09011 amb=0 sym=/[ crs=- spd=- alt=1820 msg=1 comment=
+HB9CF-10	APRS	TCPIP*,qAC,SECOND	position lat=47.04750 lon=8.66433 amb=0 sym=L& crs=- spd=- alt=- msg=1 phg=0/10/0/- comment= HB9CF-10 LoRa-APRS iGate JN47hb Foenenschwand www.hb9cf.ch 22106
+DH8TOM-2	APWEE5	TCPIP*,qAC,T2SPAIN	position lat=48.46317 lon=9.09100 amb=0 sym=/_ crs=- spd=- alt=- msg=1 time=dayHourMinute(day: 21, hour: 11, minute: 35, isUTC: true) wx=dir:354,spd:2,gust:5,t:49,r:0,p:17,P:4,h:81,b:10167,L:-,snow:- comment= Netatmo Gomaringen 420m ASL 
+DD7TF-10	APRSGW	TCPIP*,qAR,DD7TF-10	position lat=48.47200 lon=7.98117 amb=0 sym=/# crs=- spd=- alt=682 msg=0 comment=/B=100/N6
+HB9BA-2	APDI22	WIDE1-1,WIDE2-2,qAR,HB9F-10	position lat=47.07050 lon=7.53967 amb=0 sym=S# crs=- spd=- alt=1804 msg=1 comment=DIXPRS on Sheeva
+DL1GJJ-10	APLG01	TCPIP*,qAC,T2LAUSITZ	position lat=48.03500 lon=9.79883 amb=0 sym=L& crs=- spd=- alt=- msg=1 comment=LoRa iGATE Hochdorf-Schweinhausen
+DK1TN-10	APLC13	TCPIP*,qAC,T2UKRAINE	telemetry seq=270 analog=232.00,323.00,0.00,0.00,0.00 digital=00000000 comment=
+DK1TN-10	APLC13	TCPIP*,qAC,T2UKRAINE	position lat=48.04933 lon=8.20667 amb=0 sym=L& crs=- spd=- alt=- msg=0 comment=LoRa/iGate JN48CB 879 ü.nN
+HB9BA-2	APDI22	WIDE1-1,WIDE2-2,qAR,HB9ESW-10	unparsed
+HB3XZD-1	APBM1D	TCPIP*,qAR,HB9BO-10	position lat=46.92683 lon=7.11500 amb=0 sym=\! crs=360 spd=0.0 alt=1648 msg=1 comment=Joel RoIP
+DL1TOB-9	APLT00	WIDE1-1,qAS,DH0GME-10	position lat=48.10267 lon=8.74917 amb=0 sym=/> crs=23 spd=27.0 alt=2629 msg=0 comment= !wWD!
+F4LNU-10	APLRG1	TCPIP*,qAC,T2CSNGRAD	position lat=47.58001 lon=6.75000 amb=0 sym=La crs=- spd=- alt=- msg=0 comment=LoRa APRS
+ER-OE9XVD	RXTLM-1	TCPIP,qAR,OE9XVD	message to=ER-OE9XVD kind=text id=- reply=- text=UNIT.RX Erlang,TX Erlang,RXcount/10m,TXcount/10m,none1,STxxxxxx,logic
+ER-OE9XVD	RXTLM-1	TCPIP,qAR,OE9XVD	telemetry seq=057 analog=23936814.00,0.02,0.00,5.00,0.00 digital=00000000 comment=,TetraLogic
+HB9LU-11	APMI06	TCPIP*,qAC,T2ROMANIA	position lat=46.91150 lon=8.36583 amb=0 sym=/- crs=- spd=- alt=- msg=1 time=dayHourMinute(day: 21, hour: 11, minute: 40, isUTC: true) comment=WX3in1Plus2.0 U=13.5V,T=2.3C/www.wirzweli.net
+HB9EYZ-1	APRS	TCPIP*,qAS,HB9EYZ	status time=- text=WX Lausen JN37vl 355m, RasPi: up 206 days, http://www.hb9eyz.ch
+DD8TF-11	APRS	qAO,DD8TF-10	position lat=47.97950 lon=8.81517 amb=0 sym=/_ crs=- spd=- alt=- msg=0 wx=dir:-,spd:-,gust:-,t:52,r:-,p:-,P:-,h:62,b:-,L:-,snow:- comment=
+DF8GH	APZDMR	QTH*,TCPIP*,qAU,T2KOBLENZ	item name=DF8GH-DP live=1 lat=48.02000 lon=9.29200 amb=0 sym=/r crs=- spd=- alt=- msg=0 rng=34.0 comment= IPSC2-DL-HOTSPOT MMDVM 433.8000 MHz 
+HB9BSL-11	APMI04	TCPIP*,qAS,HB9BSL	message to=HB9BSL-11 kind=text id=- reply=- text=PARM.Vin,Rx1h,Rx10m,Eff1h,Eff,O1,O2,O3,O4,I1,I2,I3,I4
+HB9FG-4	APMI01	WIDE2-2,qAR,HB9FG-5	message to=HB9FG-4 kind=text id=- reply=- text=UNIT.Pkt,Pkt,Pcnt,None,None,On,On,On,On,Hi,Hi,Hi,Hi
+HB9BSL-11	APMI04	TCPIP*,qAS,HB9BSL	message to=HB9BSL-11 kind=text id=- reply=- text=UNIT.Volt,Pkt,Pkt,Pcnt,Pcnt,On,On,On,On,Hi,Hi,Hi,Hi
+HB9EYZ-1	WX	TCPIP*,qAS,HB9EYZ	position lat=47.47667 lon=7.76333 amb=0 sym=/_ crs=- spd=- alt=- msg=1 time=dayHourMinute(day: 21, hour: 11, minute: 39, isUTC: true) wx=dir:200,spd:0,gust:0,t:51,r:2,p:-,P:-,h:31,b:10151,L:-,snow:- comment=wHP1000
+HB9BSL-11	APMI04	TCPIP*,qAS,HB9BSL	message to=HB9BSL-11 kind=text id=- reply=- text=EQNS.0,0.079,0,0,10,0,0,10,0,0,1,0,0,1,0
+HB9BSL-11	APMI04	TCPIP*,qAS,HB9BSL	message to=HB9BSL-11 kind=text id=- reply=- text=BITS.11111111,Telemetry
+HB9ZGL-88	APRSGW	TCPIP*,qAR,HB9ZGL-88	position lat=47.27450 lon=8.62433 amb=0 sym=/_ crs=- spd=- alt=1362 msg=0 comment=GW Feldmeilen#HB9ZGL-88/B=100
+HB9FG-4	APMI01	WIDE2-2,qAR,HB9FG-5	message to=HB9FG-4 kind=text id=- reply=- text=EQNS.0,10,0,0,10,0,0,1,0,0,0,0,0,0,0
+HB9FG-4	APMI01	WIDE2-2,qAR,HB9FG-5	message to=HB9FG-4 kind=text id=- reply=- text=BITS.11111111,Telemetry test
+HB9FDL-1	T7RYP7	DB0SAC*,WIDE2,qAR,HB9FM-4	position lat=47.48450 lon=8.18917 amb=0 sym=/- crs=- spd=0.0 alt=- msg=0 mice=standard(2) comment=]Teemu Riniken 73=
+HB9DSE	APOSB4	TCPIP*,qAC,T2UKRAINE	position lat=47.12483 lon=7.98583 amb=0 sym=/[ crs=- spd=- alt=2969 msg=1 time=dayHourMinute(day: 21, hour: 11, minute: 39, isUTC: true) comment=openSPOT4
+HB9ELV-11	APLG01	TCPIP*,qAC,T2SWEDEN	position lat=47.56067 lon=8.54250 amb=0 sym=L& crs=- spd=- alt=- msg=1 comment=LoRa iGATE
+DG5GSA-12	APLRT1	WIDE1-1,qAO,DL2GHM	position lat=48.13143 lon=7.81004 amb=0 sym=/> crs=- spd=- alt=780 msg=1 comment=
+HB9EAS-10	APMI04	TCPIP*,qAC,T2SWEDEN	position lat=47.53267 lon=7.84650 amb=0 sym=I& crs=- spd=- alt=- msg=1 comment=RX iGate Sunneberg JN37WM U=12.0V
+IW2CYE-9	APLRT1	WIDE1-1,qAO,IW2CYE-10	position lat=46.22238 lon=9.44968 amb=0 sym=/> crs=- spd=- alt=- msg=0 comment=
+HB3YDM-9	TW2VW5	HB3YGT-10,HB3YDM-10,WIDE1-1,WIDE2-1,qAR,HB9TG-10	position lat=47.44583 lon=9.05367 amb=0 sym=/> crs=249 spd=0.0 alt=1795 msg=0 mice=standard(1) comment=`_%
+DO1GR-10	APPM13	TCPIP*,qAC,T2CZECH	position lat=48.00183 lon=8.41283 amb=0 sym=R- crs=- spd=- alt=- msg=1 comment=PyMultimonAPRS iGate
+DO1GR-10	APPM13	TCPIP*,qAC,T2CZECH	status time=- text=Running on Raspberry Pi with RTL dongle
+OE9XVD	APRS	TCPIP*,qAC,T2AUSTRIA	object name=ER-OE9XVD live=1 lat=47.15433 lon=9.82417 amb=0 sym=E0 crs=- spd=- alt=- msg=0 time=dayHourMinute(day: 11, hour: 11, minute: 11, isUTC: true) comment=432.800MHz T000 R98k Tetra Bludenz Austria
+HB9EUE-1	APGE01	TCPIP*,qAC,HB9EUE-IS	position lat=47.44283 lon=8.32917 amb=0 sym=0# crs=- spd=- alt=- msg=0 comment=Low Power RX/TX iGate
+HB9EUE-1	APGE01	TCPIP*,qAC,HB9EUE-IS	status time=dayHourMinute(day: 21, hour: 11, minute: 39, isUTC: true) text=Testing
+DL1SEW-6	APRS	TCPIP*,qAC,NINTH	position lat=48.30833 lon=8.91367 amb=0 sym=/_ crs=- spd=- alt=- msg=1 time=dayHourMinute(day: 21, hour: 11, minute: 39, isUTC: true) wx=dir:168,spd:2,gust:5,t:44,r:0,p:10,P:10,h:76,b:10183,L:175,snow:- comment=.PCWS2.99.9E31
+DB0KI	APMI06	TCPIP*,qAC,NINTH	position lat=48.47617 lon=8.31050 amb=0 sym=/& crs=- spd=- alt=- msg=1 time=dayHourMinute(day: 21, hour: 11, minute: 39, isUTC: true) comment=2m APRS IGATE und DMR Relais 970m ASL U=12.5V
+DB0ZKN-10	APLRG1	TCPIP*,qAC,T2GREECE	position lat=47.65567 lon=9.17334 amb=0 sym=L& crs=- spd=- alt=- msg=1 comment=LoRa iGate, Sysop DL5BF
+HB9FG-4	APMI01	WIDE2-2,qAR,HB9FG-5	telemetry seq=186 analog=0.00,0.00,0.00,0.00,0.00 digital=00000000 comment=
+IW2EJH-5	APLRT1	WIDE1-1,qAR,HB9WDF-15	position lat=47.18249 lon=8.08249 amb=0 sym=/[ crs=- spd=- alt=1838 msg=1 comment=
+OE9SAU-13	APN100	TCPIP*,qAC,T2AUSTRIA	position lat=47.24617 lon=9.64783 amb=0 sym=/- crs=- spd=- alt=- msg=1 comment=My QTH: Temp: 11.7°C * Hum: 80.9% * Pres: 1022hPA * Wind: N 0km/h * Rain: 0.0mm/h * Rain: 2.0mm/d * particulate-matter: PM2.5: 2.03µg/m³ PM10: 2.37µg/m³ * Solar: gridP: 0.00W dailyEnergy: 0.103kW/h
+HB9KAX-13	APRS	TCPIP*,qAC,T2CSNGRAD	position lat=47.12533 lon=7.53383 amb=0 sym=/_ crs=- spd=- alt=- msg=1 time=dayHourMinute(day: 21, hour: 11, minute: 40, isUTC: true) wx=dir:341,spd:3,gust:8,t:49,r:0,p:-,P:15,h:90,b:10201,L:-,snow:- comment=HomeAssistant_Ecowitt_HP2550A
+HB9BSL-11	APMI04	TCPIP*,qAS,HB9BSL	telemetry seq=017 analog=156.00,40.00,50.00,78.00,84.00 digital=00000000 comment=
+HB9H-11	APMI06	TCPIP*,qAS,HB9H	message to=HB9H-11 kind=text id=- reply=- text=PARM.Alim.,Batt.1,Batt.2,Prova,Pkts,O1,O2,O3,O4,I1,I2,I3,I4
+HB9H-11	APMI06	TCPIP*,qAS,HB9H	message to=HB9H-11 kind=text id=- reply=- text=UNIT.Volt,Volt,Volt,Pcnt,None,On,On,On,On,Hi,Hi,Hi,Hi
+HB9H-11	APMI06	TCPIP*,qAS,HB9H	message to=HB9H-11 kind=text id=- reply=- text=EQNS.0,0.074,0,0,0.080,0,0,0.074,0,0,0.074,0,0,1,0
+HB9H-11	APMI06	TCPIP*,qAS,HB9H	message to=HB9H-11 kind=text id=- reply=- text=BITS.11111111,WX3in1Plus20 Telemetry
+HB9TEST	APRS	TCPIP*,qAC,T2SPAIN	position lat=47.40817 lon=9.03317 amb=0 sym=/r crs=- spd=- alt=- msg=0 comment=Hasenberg 778m offline
+OE9VRU-L1	APLC13	TCPIP*,qAC,T2CZECH	status time=- text=APRScube (18dBm)
+DB0RV-13	APRS	TCPIP*,qAC,T2SPAIN	position lat=47.81083 lon=9.58883 amb=0 sym=/_ crs=- spd=- alt=- msg=0 time=dayHourMinute(day: 21, hour: 11, minute: 35, isUTC: true) wx=dir:244,spd:3,gust:-,t:44,r:-,p:-,P:-,h:78,b:10178,L:-,snow:- comment=eLUFFT-WS601UMB
+EL-OE9SAU	RXTLM-1	TCPIP,qAR,OE9SAU	message to=EL-OE9SAU kind=text id=- reply=- text=UNIT.RX Erlang,TX Erlang,RXcount/10m,TXcount/10m,none1,STxxxxxx,logic
+EL-OE9SAU	RXTLM-1	TCPIP,qAR,OE9SAU	telemetry seq=003 analog=0.16,0.31,8.00,9.00,0.00 digital=00000000 comment=,SimplexLogic
+ER-OE9PKV	RXTLM-1	TCPIP,qAR,OE9PKV	message to=ER-OE9PKV kind=text id=- reply=- text=UNIT.RX Erlang,TX Erlang,RXcount/10m,TXcount/10m,none1,STxxxxxx,logic
+ER-OE9PKV	RXTLM-1	TCPIP,qAR,OE9PKV	telemetry seq=141 analog=0.00,0.04,0.00,4.00,0.00 digital=00000000 comment=,RepeaterLogic
+DK1REM-10	APPM13	TCPIP*,qAC,T2FINLAND	position lat=47.80733 lon=9.23867 amb=0 sym=/I crs=- spd=- alt=- msg=1 comment=PyMultimonAPRS iGate
+DK1REM-10	APPM13	TCPIP*,qAC,T2FINLAND	status time=- text=Inner: Temp = 22.21 C - Hum = 49.14 % - Press = 961.73 hPa
+ER-DM0ESS	RXTLM-1	TCPIP,qAR,DM0ESS	message to=ER-DM0ESS kind=text id=- reply=- text=UNIT.RX Erlang,TX Erlang,RXcount/10m,TXcount/10m,none1,STxxxxxx,logic
+ER-DM0ESS	RXTLM-1	TCPIP,qAR,DM0ESS	telemetry seq=141 analog=0.00,0.01,0.00,3.00,0.00 digital=00000000 comment=,RepeaterLogic
+HB9EYW-6	APRS	TCPIP*,qAC,T2LAUSITZ	position lat=47.55200 lon=7.55667 amb=0 sym=/_ crs=- spd=- alt=- msg=1 time=dayHourMinute(day: 21, hour: 11, minute: 40, isUTC: true) wx=dir:274,spd:1,gust:4,t:50,r:0,p:8,P:1,h:69,b:0,L:-,snow:- comment=eCumulusFO
+DK1TEO-10	APPM13	TCPIP*,qAC,T2NUERNBG	position lat=47.83600 lon=9.33850 amb=0 sym=/I crs=- spd=- alt=- msg=1 comment=PyMultimonAPRS iGate
+DK1TEO-10	APPM13	TCPIP*,qAC,T2NUERNBG	status time=- text=Alt: 750m -
+DB0BLG-11	APRS	TCPIP*,qAC,THIRD	position lat=47.84933 lon=8.53167 amb=0 sym=/_ crs=- spd=- alt=- msg=1 time=dayHourMinute(day: 21, hour: 11, minute: 40, isUTC: true) wx=dir:-,spd:-,gust:-,t:-,r:-,p:-,P:-,h:-,b:-,L:-,snow:- comment=t53r...p...P...h54b10204 BME280
+DC6PN-S	APDG01	TCPIP*,qAC,DC6PN-GS	object name=DC6PN  B live=1 lat=48.26717 lon=9.77700 amb=0 sym=Da crs=- spd=- alt=10 msg=0 time=dayHourMinute(day: 21, hour: 11, minute: 40, isUTC: true) comment=RNG0001 440 Voice 438.05000MHz -7.6000MHz
+DL1GKK	APGRWO	TCPIP*,qAC,T2SPAIN	position lat=47.98683 lon=7.78567 amb=0 sym=/- crs=- spd=- alt=755 msg=0 comment=Fill-in Digi & iGate Freiburg-Haid | DL1GKK.com
+HB9DTX-9	APLC13	qAO,HB9HFM-10	position lat=46.99000 lon=6.91000 amb=0 sym=L& crs=- spd=- alt=- msg=0 comment=LoRa-System APRScube M5stack
+HB9ELV-12	APLRG1	TCPIP*,qAC,T2PANAMA	position lat=47.12744 lon=8.57390 amb=0 sym=L& crs=- spd=- alt=- msg=1 comment=LoRa APRS
+DL2GKH-9	APLT00	WIDE1-1,qAO,HB9ELV-18	position lat=47.65883 lon=8.42800 amb=0 sym=4k crs=- spd=- alt=1379 msg=0 comment=Hermann, LoRa !wPO!
+DL1TOB-9	APLT00	WIDE1-1,qAS,DH0GME-10	position lat=48.10600 lon=8.74867 amb=0 sym=/> crs=337 spd=14.0 alt=2613 msg=0 comment= !w){!
+HB9AW-11	APGW1K	TCPIP*,qAC,T2FINLAND	position lat=47.04717 lon=7.87017 amb=0 sym=/0 crs=- spd=- alt=- msg=0 comment=  www.HB9AW.ch  Ahornalp 1140asl 13.8V
+DB0FRB	APRX29	TCPIP*,qAC,T2CZECH	object name=DH0GMI live=1 lat=48.12700 lon=7.84583 amb=0 sym=/y crs=- spd=- alt=- msg=0 time=dayHourMinute(day: 11, hour: 11, minute: 11, isUTC: true) comment=
+HB9GYD-7	TW2SQ2	WIDE1-1,WIDE2-1,qAO,HB9GZW-1	position lat=47.38533 lon=8.12900 amb=0 sym=/[ crs=1 spd=0.0 alt=1365 msg=0 mice=standard(1) comment=`QRV local repeater (QTH -> aprs.fi) & 144.8125MHz FM/C4FM_3
+DB0RBB-10	APMI01	TCPIP*,qAS,DB0RBB	position lat=48.69117 lon=9.01300 amb=0 sym=R& crs=- spd=- alt=- msg=1 time=dayHourMinute(day: 21, hour: 11, minute: 40, isUTC: true) comment=DB0RBB-10 RX-IGATE 144.800
+DO2MIB-10	APWW11	TCPIP*,qAC,T2PANAMA	status time=- text=JN37tr/Z QRV 439.175
+DH1GAP-13	APGE01	qAS,DH1GAP-10	position lat=47.83783 lon=8.92600 amb=0 sym=/_ crs=- spd=- alt=- msg=0 wx=dir:0,spd:3,gust:-,t:49,r:0,p:6,P:-,h:83,b:10280,L:-,snow:- comment=
+HB9H-11	APMI06	TCPIP*,qAS,HB9H	telemetry seq=093 analog=195.00,128.00,195.00,0.00,0.00 digital=00000000 comment=
+HB9ZG-1	APMI06	TCPIP*,qAC,T2SWISS1	position lat=47.18050 lon=8.42833 amb=0 sym=I& crs=- spd=- alt=- msg=1 comment=APRS U=13.5V,T=28.6C iGATE HB9ZG-1 Huenenberg
+HB9EVF	APOSB4	TCPIP*,qAC,T2ROMANIA	position lat=47.41483 lon=8.24000 amb=0 sym=/y crs=- spd=- alt=0 msg=1 time=dayHourMinute(day: 21, hour: 11, minute: 40, isUTC: true) comment=SharkRF openSPOT4
+DC6PN-B	APDG02	TCPIP*,qAC,DC6PN-BS	position lat=48.26717 lon=9.77700 amb=0 sym=D& crs=- spd=- alt=10 msg=0 comment=RNG0001 440 Voice 438.05000MHz -7.6000MHz
+DE1HMS-7	APLRT1	WIDE1-1,qAO,DA0Y-10	position lat=48.16202 lon=9.14002 amb=0 sym=/> crs=- spd=- alt=2639 msg=1 comment=
+HB9HD	APRS	TCPIP*,qAC,T2CZECH	object name=ER-HB9HD live=1 lat=47.49583 lon=9.08167 amb=0 sym=E0 crs=- spd=- alt=- msg=0 time=dayHourMinute(day: 11, hour: 11, minute: 11, isUTC: true) comment=438.925MHz T071 R21k HB9HD Braunau TG (www.hb9hd.ch)
+OE9VRU-L1	APLC13	TCPIP*,qAC,T2CZECH	position lat=47.43317 lon=9.65233 amb=0 sym=L& crs=- spd=- alt=- msg=0 comment=LoRa-433 iGate BW125/SF12/CR45
+OE9MNR-10	APVRT7	TCPIP*,qAC,T2AUSTRIA	position lat=47.47333 lon=9.74483 amb=0 sym=/_ crs=- spd=- alt=- msg=0 wx=dir:0,spd:0,gust:-,t:46,r:-,p:-,P:-,h:100,b:9720,L:-,snow:- comment= 11.8V
+DL1TOB-9	APLT00	WIDE1-1,qAS,DH0GME-10	position lat=48.10500 lon=8.74817 amb=0 sym=/> crs=199 spd=26.0 alt=2596 msg=0 comment= !wst!
+HB9ZG-1	HB9ZG-2	TCPIP*,qAC,T2SWISS1	position lat=47.18050 lon=8.42833 amb=0 sym=I& crs=- spd=- alt=- msg=1 comment=APRS U=13.5V,T=28.6C iGATE HB9ZG-1 Huenenberg
+DM0ESS	APMI06	TCPIP*,qAC,T2POLAND	position lat=47.51183 lon=10.28033 amb=0 sym=/# crs=- spd=- alt=- msg=1 time=dayHourMinute(day: 21, hour: 11, minute: 40, isUTC: true) comment=C4FM 438.31250MHz -7.6MHz
+dl1wer-13	APRS	TCPIP*,qAC,T2NUERNBG	position lat=48.00000 lon=10.00000 amb=0 sym=/_ crs=- spd=- alt=- msg=1 time=dayHourMinute(day: 21, hour: 11, minute: 40, isUTC: true) wx=dir:345,spd:3,gust:8,t:45,r:0,p:11,P:11,h:80,b:10444,L:-,snow:- comment=eCumulusFO
+IW2EJH-5	APLRT1	WIDE1-1,qAR,HB9CQZ-10	position lat=47.18751 lon=8.07802 amb=0 sym=/[ crs=- spd=- alt=1886 msg=1 comment=
+DB0MOE-6	APU25N	TCPIP*,qAS,DB0MOE	position lat=48.59683 lon=8.07383 amb=0 sym=/_ crs=- spd=- alt=- msg=1 time=dayHourMinute(day: 21, hour: 11, minute: 40, isUTC: true) wx=dir:248,spd:1,gust:2,t:47,r:0,p:44,P:30,h:80,b:10005,L:-,snow:- comment=WX Msbach
+DG2MCM-2	APRSGW	TCPIP*,qAR,DG2MCM-2	position lat=47.72467 lon=10.32783 amb=0 sym=/# crs=- spd=- alt=2241 msg=0 comment=/B=100
+HB9HDW-4	APMI06	TCPIP*,qAS,HB9HDW	position lat=47.10117 lon=7.30017 amb=0 sym=/- crs=- spd=- alt=- msg=1 time=dayHourMinute(day: 21, hour: 11, minute: 40, isUTC: true) comment=WX3in1Plus2.0_RX_only
+HB9ELZ-1	APPIC4-13	HB9NF-10,WIDE1*,WIDE2-2,qAO,HB9ZZ-1	status time=- text=PicoAPRS - HB9ELZ-HOME
+OE9AFV-3	APRS	qAR,OE9XFV-10	position lat=47.48017 lon=9.71983 amb=0 sym=/3 crs=- spd=- alt=- msg=0 comment=Alex, Tetra MTM5400
+HB9MBS-20	APLRG1	TCPIP*,qAC,T2ROMANIA	position lat=47.09680 lon=8.34678 amb=0 sym=L_ crs=- spd=- alt=- msg=0 comment=LoRa APRS iGate HB9MBS
+HB9FM-10	APMI06	TCPIP*,qAC,T2LAUSITZ	position lat=47.45617 lon=7.56067 amb=0 sym=I& crs=- spd=- alt=- msg=1 comment=RX iGate Nenzlingen JN37SK U=14.0V
+ER-OE9XVV	RXTLM-1	TCPIP,qAR,OE9XVV	message to=ER-OE9XVV kind=text id=- reply=- text=UNIT.RX Erlang,TX Erlang,RXcount/10m,TXcount/10m,none1,STxxxxxx,logic
+ER-OE9XVV	RXTLM-1	TCPIP,qAR,OE9XVV	telemetry seq=467 analog=0.00,0.01,0.00,2.00,0.00 digital=00000000 comment=,RepeaterLogic
+DB0FRB	APNX2C	WIDE3-3,qAR,DL1GKK	position lat=48.01950 lon=7.83867 amb=0 sym=1# crs=- spd=- alt=- msg=0 comment=FILL-IN-DIGI Freiburg Nord (A05)
+HB9XC-4	APOT21	WIDE2-2,qAR,DL1GKK	position lat=47.25683 lon=7.23583 amb=0 sym=V# crs=- spd=- alt=- msg=0 phg=4/80/6/- comment=/Loveresse USKA PIEPER sysop: www.iapc.ch
+HB9INU-10	APLRG1	TCPIP*,qAC,T2CSNGRAD	position lat=47.55117 lon=7.54667 amb=0 sym=L& crs=- spd=- alt=- msg=1 comment=LoRa_APRS_iGate_Allschwil_Switzerland
+DE1HMS-7	APLRT1	WIDE1-1,qAO,DA0Y-10	position lat=48.16498 lon=9.13671 amb=0 sym=/> crs=- spd=- alt=2639 msg=1 comment=Hamid unterwegs
+DM3FAM-13	APWEE5	TCPIP*,qAC,EIGHTH	position lat=48.00500 lon=7.98083 amb=0 sym=/_ crs=- spd=- alt=- msg=0 time=dayHourMinute(day: 21, hour: 11, minute: 40, isUTC: true) wx=dir:-,spd:0,gust:0,t:46,r:0,p:47,P:35,h:89,b:10196,L:91,snow:- comment=.weewx-5.5.2-Ecowittcustom
+DB0KLI-12	APDW18	qAS,DB0KLI-1	position lat=48.10717 lon=8.75617 amb=0 sym=R& crs=- spd=- alt=- msg=0 phg=9/20/6/- comment=APRS IGATE KLIPPENECK
+OE9MNR-8	APBM1D	TCPIP*,qAR,BM2322-10	position lat=47.47333 lon=9.74517 amb=0 sym=/8 crs=360 spd=0.0 alt=1444 msg=1 comment=Michi @ P50
+HB9AK-5	APU25N	TCPIP*,qAC,T2SWISS1	object name=HB9RW live=1 lat=46.74267 lon=9.59733 amb=0 sym=/r crs=- spd=- alt=- msg=0 time=dayHourMinute(day: 2, hour: 14, minute: 12, isUTC: true) comment=145.600MHz Toff-060 RV48
+HB9CMI-4	APTWR	TCPIP*,qAC,T2HUN	position lat=47.50267 lon=8.96117 amb=0 sym=/y crs=- spd=- alt=1624 msg=0 comment= IGate MODE ESP32APRS T-TWR Plus
