@@ -94,6 +94,37 @@ final class APRSIGateTests: XCTestCase {
         XCTAssertNotNil(text(try toInternet(&gate, "N0CALL-9>APRS:>Status", at: 31)))
     }
 
+    /// Funktest 24.11.2026: Pakete mit Zeilenende am Schluss (viele Tracker
+    /// und TNCs) wurden ganz übersprungen.
+    func testTrailingLineEndIsCutOffAndThePacketGated() throws {
+        for ending in ["\r", "\n", "\r\n"] {
+            var gate = APRSIGate()
+            XCTAssertEqual(text(try toInternet(&gate, "N0CALL-9>APRS,WIDE1-1:>Status" + ending)),
+                           "N0CALL-9>APRS,WIDE1-1,qAR,N0GATE-5:>Status", "Ende \(Array(ending.utf8))")
+        }
+    }
+
+    func testTrailingLineEndDoesNotDefeatTheDuplicateCheck() throws {
+        var gate = APRSIGate()
+        XCTAssertNotNil(text(try toInternet(&gate, "N0CALL-9>APRS:>Status\r")))
+        XCTAssertEqual(try toInternet(&gate, "N0CALL-9>APRS,WIDE1*:>Status", at: 5), .skip(.duplicate))
+    }
+
+    func testPacketOfOnlyALineEndIsNotGated() throws {
+        var gate = APRSIGate()
+        let bytes = Array("N0CALL-9>APRS:".utf8) + [0x0D]
+        let packet = APRSPacket(source: "N0CALL-9", destination: "APRS", path: [], payload: [0x0D],
+                                content: .unparsed)
+        XCTAssertEqual(gate.gateToInternet(line: bytes, packet: packet, igate: me, transmitsToRadio: true,
+                                           receivedAt: t0), .skip(.malformed))
+    }
+
+    func testThirdPartyWithTrailingLineEndIsGatedWithoutIt() throws {
+        var gate = APRSIGate()
+        XCTAssertEqual(text(try toInternet(&gate, "N0DIGI>APRS:}N0CALL-9>APRS,WIDE1-1:>Status\r")),
+                       "N0CALL-9>APRS,WIDE1-1,qAR,N0GATE-5:>Status")
+    }
+
     func testEmbeddedLineBreakIsNotGated() throws {
         var gate = APRSIGate()
         let bytes = Array("N0CALL-9>APRS:>Status".utf8) + [0x0D] + Array("user x pass 1".utf8)

@@ -91,19 +91,31 @@ public struct APRSIGate: Equatable, Sendable {
         guard !Self.hasInternetMarker(subject.path), !Self.hasNoGateMarker(subject.path),
               !Self.hasNoGateMarker(packet.path) else { return .skip(.pathMarker) }
         guard subject.dataTypeIdentifier != UInt8(ascii: "?") else { return .skip(.query) }
+        // Viele Tracker und TNCs schliessen das Paket mit CR oder LF ab. Das
+        // Zeilenende am Schluss gehört nicht zu den Nutzdaten und wird
+        // abgeschnitten; eines mitten im Paket bleibt ein Grund zum Verwerfen
+        // (Funktest 24.11.2026: solche Pakete wurden ganz übersprungen).
+        subjectLine = Self.withoutTrailingLineEnds(subjectLine)
+        let payload = Self.withoutTrailingLineEnds(subject.payload)
         guard let colon = subjectLine.firstIndex(of: UInt8(ascii: ":")), colon > 0,
-              !subject.payload.isEmpty,
+              !payload.isEmpty,
               // Zeilenenden im Paket würden auf APRS-IS eine zweite Zeile einschleusen.
               !subjectLine.contains(where: { $0 == 0x0A || $0 == 0x0D }) else { return .skip(.malformed) }
 
         // Direkt und über Digipeater gehörte Kopien desselben Pakets nur einmal.
         recentToInternet = recentToInternet.filter { receivedAt.timeIntervalSince($0.value) < Self.duplicateWindow }
-        let key = Array(subject.sourceKey.utf8) + [0] + subject.payload
+        let key = Array(subject.sourceKey.utf8) + [0] + payload
         guard recentToInternet[key] == nil else { return .skip(.duplicate) }
         recentToInternet[key] = receivedAt
 
         let construct = transmitsToRadio ? "qAR" : "qAO"
         return .gate(Array(subjectLine[..<colon]) + Array(",\(construct),\(me)".utf8) + Array(subjectLine[colon...]))
+    }
+
+    static func withoutTrailingLineEnds(_ bytes: [UInt8]) -> [UInt8] {
+        var end = bytes.count
+        while end > 0, bytes[end - 1] == 0x0A || bytes[end - 1] == 0x0D { end -= 1 }
+        return end == bytes.count ? bytes : Array(bytes[..<end])
     }
 
     // MARK: - Internet → Funk
